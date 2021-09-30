@@ -23,4 +23,4 @@ Para el inicio de este repositorio colocare un código con el cual cree una pág
 
 Hasta aqui terminan las líneas de código
 
-qwertyuiopasdfghjklzxcvbnm
+<imgsrc= D:\Juego y apps .___\a\Proyectos web\Proyecto.Pokemon.drawio>
