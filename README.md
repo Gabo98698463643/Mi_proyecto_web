@@ -9,18 +9,17 @@ Para el inicio de este repositorio colocare un código con el cual cree una pág
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi proyecto web</title>
+    
 </head>
 <body>
-    <h1>Hola, mundo</h1>
-    <h2>Te doy la bienvenida al mundo de la programación</h2>
-    <p>
-        <b>Advertencia:</b>
-        Una vez que inicias este curso no volverar a ser la misma persona
+    <h1>Hola, bienvenido a mi repositorio</h1>
+    <h2>A continuación le presentarpe un poco de mi persona </h2>
+    </br>
+    <p style="color:orangered">
+     <l1> 🟠 Soy un estudiante de nivel medio superior
+     <l2> 📎 Actualmente este repositorio se esta usando para el programa "Desarrolladores Jr." 
+     <l3> 🎮 Entre mis gustos estan los videojuegos
+     <l4 style="text-align:center;"> ༼ つ ◕_◕ ༽つ
     </p>
 </body>
 </html>
-
-Hasta aqui terminan las líneas de código
-
-<imgsrc= D:\Juego y apps .___\a\Proyectos web\Proyecto.Pokemon.drawio>
