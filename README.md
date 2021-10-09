@@ -19,7 +19,8 @@ Para el inicio de este repositorio colocare un código con el cual cree una pág
      <li> 🟠 Soy un estudiante de nivel medio superior </li>
      <li> 📎 Actualmente este repositorio se esta usando para el programa "Desarrolladores Jr." </li>
      <li> 🎮 Entre mis gustos estan los videojuegos </li>
-     <li style="text-align:center;"> ༼ つ ◕_◕ ༽つ</li>
+     <li style="text-align:center;"> ༼ つ ◕_◕ ༽つ </li>
+     <li> Este es un link a mi página: "https://gabo98698463643.github.io/mi_proyecto_web/" donde estaré dejando mis trabajos </li>
     </p>
 </body>
 </html>
