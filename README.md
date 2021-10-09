@@ -16,10 +16,10 @@ Para el inicio de este repositorio colocare un código con el cual cree una pág
     <h2>A continuación le presentarpe un poco de mi persona </h2>
     </br>
     <p style="color:orangered">
-     <l1> 🟠 Soy un estudiante de nivel medio superior
-     <l2> 📎 Actualmente este repositorio se esta usando para el programa "Desarrolladores Jr." 
-     <l3> 🎮 Entre mis gustos estan los videojuegos
-     <l4 style="text-align:center;"> ༼ つ ◕_◕ ༽つ
+     <li> 🟠 Soy un estudiante de nivel medio superior </li>
+     <li> 📎 Actualmente este repositorio se esta usando para el programa "Desarrolladores Jr." </li>
+     <li> 🎮 Entre mis gustos estan los videojuegos </li>
+     <li style="text-align:center;"> ༼ つ ◕_◕ ༽つ</li>
     </p>
 </body>
 </html>
