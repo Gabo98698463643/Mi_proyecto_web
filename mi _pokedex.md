@@ -9,9 +9,8 @@
 <body>
  <hi> Mi pokedex </hi>  
  <li> Aquí le dejo un hyperlink donde podrá ubicar el diselño que relicé </li>
-
-  <img style="width=100px" src="https://n9.cl/pxdn4" alt="Pokedex">
-  
+  <li href: {https://drive.google.com/file/d/1BsEW6X4mElYoA2qfG2qTQiaxasJ4X28_/view?usp=sharing}> aaa </li>
+  <img style="width=100px" src="https://drive.google.com/file/d/1BsEW6X4mElYoA2qfG2qTQiaxasJ4X28_/view?usp=sharing" alt="Pokedex">
 </body>
 
 </html>
