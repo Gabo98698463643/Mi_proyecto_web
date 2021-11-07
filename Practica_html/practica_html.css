@@ -2,7 +2,10 @@
 
 #body{
     width: 100%;
-    background-color:royalblue
+    height: 100% ;
+    background-image: url("https://media.giphy.com/media/H1RTRpU86PM8FmyUcE/giphy.gif");
+    background-position: center ;
+    background-size: cover ;
 }
 
 #header {     
@@ -10,7 +13,9 @@
      
     width: 80%;
     height: 15%; 
-    background-color:darkorange;
+    background-color: #72B2FF;
+    border-radius: 10px ;
+    outline: .3rem solid #5ea6fd ;
 }
 
 #div {
@@ -18,7 +23,8 @@
    
     width: 80%;
     height: 100%;
-    background-color: lawngreen;
+    background-color: #98cdff;
+    outline: thick double #98C7FF ;
 }
 
 #footer {
@@ -26,7 +32,13 @@
 
     width: 80%;
     height: 15%;
-    background-color: darkorange;
+    background-color: #aa816b;
+    border-radius: 10px;
+    outline: solid #aa816cce;
+}
+
+#tituloheader{
+
 }
 
 
@@ -37,7 +49,9 @@
 
     width: 90%;
     height: 100%;
-    background-color:yellow;
+    background-color:rgb(196, 196, 196);
+    outline: dashed rgb(139, 139, 139) ;
+    border-radius: 10px ;
 }
 
 .ul2 li {
