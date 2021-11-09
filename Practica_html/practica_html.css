@@ -13,7 +13,7 @@
      
     width: 80%;
     height: 15%; 
-    background-color: #72B2FF;
+    background-color: white;
     border-radius: 10px ;
     outline: .3rem solid #5ea6fd ;
 }
@@ -32,13 +32,13 @@
 
     width: 80%;
     height: 15%;
-    background-color: #aa816b;
+    background-color: white;
     border-radius: 10px;
     outline: solid #aa816cce;
 }
 
-#tituloheader{
-
+.tituloheader{
+ text-align: center;
 }
 
 
@@ -54,6 +54,17 @@
     border-radius: 10px ;
 }
 
+.sectionojo {
+    margin: auto;    
+      
+
+    width: 90%;
+    height: 100%;
+    background-color:white;
+    outline: dashed rgb(139, 139, 139) ;
+    border-radius: 10px ;
+}
+
 .ul2 li {
    list-style: none; 
 }
@@ -61,6 +72,8 @@
 .imgheader img {
     width:120px; 
     height:120px;  
+    
+    
 }
 
 .imgsection {
