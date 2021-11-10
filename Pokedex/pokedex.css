@@ -36,7 +36,8 @@
 
     #pokedex{
         width: 750px;
-        margin: 50px, auto;
+        margin: auto;
+       
     }
 
     #left{
@@ -72,7 +73,7 @@
         height: 150px;
         margin-left: 35px;
         margin-top: 40px;
-        background-color: white;
+        background-color: #0CB7F2;
     }
 
     #right > .display {
