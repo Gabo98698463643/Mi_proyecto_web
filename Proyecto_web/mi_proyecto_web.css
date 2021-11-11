@@ -8,6 +8,7 @@ html{
 body{
 
     background-image: url(https://drive.google.com/uc?export=view&id=1CGcWOhiCjDpbqFSZeIz6bFB5fsujWxsZ);
+    background-size: cover;
     width: 1395px;
     height: 635px;
     margin-left: 0px;
@@ -104,6 +105,101 @@ ul {
     color: white;
     outline: thick double #203772 ;
 }
+
+   /* Smarthphone vertical */  
+  @media (max-width:640px){
+
+    html{
+        background-color: rgb(77, 1, 1);
+    }
+
+    body{
+        background-image: url(https://drive.google.com/uc?export=view&id=1q59Gx6gUfvYhIIVs1jnpnJCYPVZOKUfH);
+        background-size: cover;
+        width: 640px;
+        height: 960px;
+    }
+
+    header{
+
+        margin-left: 100px;
+        margin-bottom: 35px;
+        
+    }
+
+    div{
+
+        width: 600px;
+        height: 777px;
+        font-size: 15px;
+        
+    }
+
+    #buscador{
+
+        width: 250px;
+        margin-left: 180px;
+
+    }
+  
+    #resultados{
+
+        width: 550px;
+        height: 657px;
+        margin-left: 25px;    
+    
+    }  
+    
+    #imagen{
+
+        width: 200px;
+        height: 200px;
+        margin-top: 20px;
+        margin-left: 185px;
+        
+    }
+    
+    #npc{
+
+        margin-left: 90px;
+
+    }
+
+    #descripcion{
+
+        width: 500px;
+        height: 300px;
+        margin-left: -13px;
+
+    }
+    
+  }
+
+
+   /*  Smarthphone horizontal  & tablets vertical */ 
+  @media only screen and (min-width:641px) and (max-width:1024px){
+
+    
+
+  }
+
+
+
+   /*  tablets horizontal & laptop vertical (touch screen) */  
+  @media only screen and (min-width:1024px) and (max-width:1279px){}
+
+
+
+   /*  laptops    & Monitores */  
+  @media only screen and (min-width:1280px) and (max-width:1920px){}
+
+
+
+   /*  Televisores  */
+
+  @media only screen and (min-width:1920px){}
+
+
 
 
  
