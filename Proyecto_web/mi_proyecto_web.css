@@ -2,22 +2,19 @@
 
 
 html{
-    background-image: black;
+    background-color: rgb(38, 141, 238);
 }
 
 body{
-
     background-image: url(https://drive.google.com/uc?export=view&id=1CGcWOhiCjDpbqFSZeIz6bFB5fsujWxsZ);
     background-size: cover;
     width: 1395px;
     height: 635px;
     margin-left: 0px;
-    margin-top: -44px;
-    
+    margin-top: -44px;    
 }
 
-header{
-    
+header{    
     width: 465px;
     height: 100px;
     text-align: center;
@@ -27,11 +24,9 @@ header{
     margin-bottom: 20px;
     color: #724a0e;
     text-shadow: #96d61e 0px -5px 5px;    
-    
 }
 
 div{
-
     width: 1200px;
     height: 480px;
     background-color: #626068;
@@ -40,50 +35,43 @@ div{
     border-style: solid;
     text-align: justify;
     margin: auto;
-    border-radius: 20px;
-    
+    border-radius: 20px;    
 }
 
 #buscador{
-
     background-color: white;
     width: 250px;
     height: 20px;
     margin-left: 450px;
     margin-top: 30px;
     border-radius: 5px;
+    text-align: center;
 }
 
 #resultados{
-
     background-color: #3c5eaf;
     width: 1000px;
     height: 370px;
     margin-top: 30px;
     margin-left: 100px;
     border-radius: 20px;
-    outline: 7px dashed #5f5b6b;        
-
+    outline: 7px dashed #5f5b6b; 
 }  
 
 #imagen{
-
     width: 250px;
     height: 250px;
     margin-top: 60px;
     margin-left: 90px;
-    border-radius: 10px;
-    
+    border-radius: 10px;    
 }
 
 ul {
     display: inline-block;
-    vertical-align: top;    
-    
+    vertical-align: top;   
 }
 
 #npc{
-
     font-size: 30px;
     margin-left: 110px;
     background-color: #27407bed;
@@ -106,104 +94,456 @@ ul {
     outline: thick double #203772 ;
 }
 
-   /* Smarthphone vertical */  
+
+
+
+   /* Smarthphone vertical  INFRAMUNDO */  
   @media (max-width:640px){
 
     html{
         background-color: rgb(77, 1, 1);
     }
-
-    body{
+    
+    body{    
         background-image: url(https://drive.google.com/uc?export=view&id=1q59Gx6gUfvYhIIVs1jnpnJCYPVZOKUfH);
-        background-size: cover;
-        width: 640px;
-        height: 960px;
-    }
-
-    header{
-
-        margin-left: 100px;
-        margin-bottom: 35px;
-        
-    }
-
-    div{
-
-        width: 600px;
-        height: 777px;
+        width: 320px;
+        height: 480px;
+        margin-top: -20px;
+        }
+    
+    header{        
+        width: 300px;
+        height: 40px;
         font-size: 15px;
-        
+        margin-left: 10px;
+        margin-bottom: 10px; 
+        }
+    
+    div{    
+        width: 300px;
+        height: 390px;
+        font-size: 10px;        
     }
+    
+    #buscador{    
+        width: 100px;
+        height: 15px;
+        margin-left: 100px;
+        margin-top: 15px;
+        border-radius: 5px;
+    }
+    
+    #resultados{    
 
-    #buscador{
+        width: 280px;
+        height: 330px;
+        margin-top: 10px;
+        margin-left: 10px;
+        border-radius: 20px;
+        outline: 3px dashed #5f5b6b;   
+    }     
+    
+    #imagen{    
+        width: 100px;
+        height: 100px;
+        margin-top: 10px;
+        margin-left: 90px;
+        border-radius: 5px;
+        }
+    
+    #npc{    
+        font-size: 15px;
+        margin-left: 25px;
+        margin-top: 5px;
+        width: 150px;
+        height: 20px;
+        border-radius: 5px;
+    }
+    
+    #descripcion{
 
         width: 250px;
-        margin-left: 180px;
-
+        height: 150px;
+        margin-left: -25px;
+        border-radius: 5px;
+        font-size: 10px;
     }
-  
-    #resultados{
+   
+  }
 
+
+   /*  Smarthphone horizontal  & tablets vertical HONGOS */ 
+  @media only screen and (min-width:640px) and (max-width:1024px){
+      
+    html{
+        background-color: #1a3f6b;
+    }
+    
+    body{    
+        background-image: url(https://drive.google.com/uc?export=view&id=1aOmIJflvSym6N6WYkIEk6dVWnf6JfAfY);
+        width: 640px;
+        height: 960px;
+        margin-top: -40px;
+    }
+    
+    header{
+        width: 450px;
+        height: 100px;
+        font-size: 30px;
+        margin-left: 95px;
+    }
+    
+    div{
+    
+        width: 600px;
+        height: 715px;
+        border-radius: 20px;
+        
+    }
+    
+    #buscador{
+        width: 300px;
+        height: 25px;
+        margin-left: 150px;
+        margin-top: 20px;
+        border-radius: 5px;
+    }
+    
+    #resultados{
         width: 550px;
-        height: 657px;
-        margin-left: 25px;    
+        height: 620px;
+        margin-left: 25px;
+        border-radius: 10px;
+        outline: 5px dashed #5f5b6b;     
+    }  
+    
+    #imagen{    
+        width: 200px;
+        height: 200px;
+        margin-top: 30px;
+        margin-left: 175px;
+    }
+    
+    #npc{    
+        font-size: 20px;
+        margin-left: 110px;
+        width: 250px;
+        height: 28px;
+        border-radius: 10px;
+}
+    
+    #descripcion{
+        width: 525px;
+        height: 280px;
+        margin-left: -27px;
+        border-radius: 8px;
+        font-size: 18px;
+    }
+   
+
+  }
+
+
+
+   /*  tablets horizontal & laptop vertical (touch screen) SUBSUELO */  
+  @media only screen and (min-width:1024px) and (max-width:1280px){
+      
+    html{
+        background-color: #654432;
+    }
+    
+    body{    
+        background-image: url(https://drive.google.com/uc?export=view&id=1QzA8tQO0smW7kOM2IZM6v2GoWXrmJRjV);
+        width: 1024px;
+        height: 768px;
+        margin-top: -45px;
+    }
+    
+    header{        
+        width: 500px;
+        height: 100px;
+        font-size: 35px;
+        margin-left: 262px;
+        margin-bottom: 5px;        
+    }
+    
+    div{    
+        width: 1000px;
+        height: 625px;
+        font-size: 20px;
+        border-radius: 20px;        
+    }
+    
+    #buscador{
+        height: 25px;
+        margin-left: 375px;
+        margin-top: 25px;
+    }
+    
+    #resultados{
+        width: 900px;
+        height: 500px;
+        margin-left: 50px;
+        outline: 5px dashed #5f5b6b;     
+    }  
+    
+    #imagen {    
+        width: 210px;
+        height: 210px;
+        margin-left: 100px;
+    }
+    
+    #npc{    
+        border-radius: 7px;
+        margin-top: 120px;        
+    }
+    
+    #descripcion{
+        width: 700px;
+        height: 190px;
+        margin-top: 110px;
+        margin-left: -260px;
+        border-radius: 0px;
+    }
+       
+
+  }
+
+
+
+   /*  laptops    & Monitores SUPERFICIE. */  
+  @media only screen and (min-width:1280px) and (max-width:1920px){
+
+    html{
+        background-color: rgb(38, 141, 238);
+    }
+    
+    body{
+    
+        background-image: url(https://drive.google.com/uc?export=view&id=);
+        background-size: cover;
+        width: 1395px;
+        height: 635px;
+        margin-left: 0px;
+        margin-top: -44px;
+        
+    }
+    
+    header{
+        
+        width: 465px;
+        height: 100px;
+        text-align: center;
+        font-family: 'Caveat Brush', cursive;
+        font-size: 30px;
+        margin-left: 465px;
+        margin-bottom: 20px;
+        color: #724a0e;
+        text-shadow: #96d61e 0px -5px 5px;    
+        
+    }
+    
+    div{
+    
+        width: 1200px;
+        height: 480px;
+        background-color: #626068;
+        font-family: 'Caveat', cursive;
+        font-size: 20px;
+        border-style: solid;
+        text-align: justify;
+        margin: auto;
+        border-radius: 20px;
+        
+    }
+    
+    #buscador{
+    
+        background-color: white;
+        width: 250px;
+        height: 20px;
+        margin-left: 450px;
+        margin-top: 30px;
+        border-radius: 5px;
+    }
+    
+    #resultados{
+    
+        background-color: #3c5eaf;
+        width: 1000px;
+        height: 370px;
+        margin-top: 30px;
+        margin-left: 100px;
+        border-radius: 20px;
+        outline: 7px dashed #5f5b6b;        
     
     }  
     
     #imagen{
-
-        width: 200px;
-        height: 200px;
-        margin-top: 20px;
-        margin-left: 185px;
+    
+        width: 250px;
+        height: 250px;
+        margin-top: 60px;
+        margin-left: 90px;
+        border-radius: 10px;
+        
+    }
+    
+    ul {
+        display: inline-block;
+        vertical-align: top;    
         
     }
     
     #npc{
-
-        margin-left: 90px;
-
+    
+        font-size: 30px;
+        margin-left: 110px;
+        background-color: #27407bed;
+        width: 300px;
+        height: 40px;
+        text-align: center;
+        border-radius: 13px;
+        outline: thick double #203361;
+        color: white;
     }
-
+    
     #descripcion{
-
+        background-color: #0e1c3e ;
         width: 500px;
-        height: 300px;
-        margin-left: -13px;
+        height: 200px;
+        margin-left: 10px;
+        text-align: justify;
+        border-radius: 10px;
+        color: white;
+        outline: thick double #203772 ;
+    }
+   
 
+  }
+
+
+
+   /*  Televisores STARDUST */
+
+  @media only screen and (min-width:1920px){
+      
+    html{
+        background-color: rgb(38, 141, 238);
     }
     
-  }
-
-
-   /*  Smarthphone horizontal  & tablets vertical */ 
-  @media only screen and (min-width:641px) and (max-width:1024px){
-
+    body{
     
+        background-image: url(https://drive.google.com/uc?export=view&id=);
+        background-size: cover;
+        width: 1395px;
+        height: 635px;
+        margin-left: 0px;
+        margin-top: -44px;
+        
+    }
+    
+    header{
+        
+        width: 465px;
+        height: 100px;
+        text-align: center;
+        font-family: 'Caveat Brush', cursive;
+        font-size: 30px;
+        margin-left: 465px;
+        margin-bottom: 20px;
+        color: #724a0e;
+        text-shadow: #96d61e 0px -5px 5px;    
+        
+    }
+    
+    div{
+    
+        width: 1200px;
+        height: 480px;
+        background-color: #626068;
+        font-family: 'Caveat', cursive;
+        font-size: 20px;
+        border-style: solid;
+        text-align: justify;
+        margin: auto;
+        border-radius: 20px;
+        
+    }
+    
+    #buscador{
+    
+        background-color: white;
+        width: 250px;
+        height: 20px;
+        margin-left: 450px;
+        margin-top: 30px;
+        border-radius: 5px;
+    }
+    
+    #resultados{
+    
+        background-color: #3c5eaf;
+        width: 1000px;
+        height: 370px;
+        margin-top: 30px;
+        margin-left: 100px;
+        border-radius: 20px;
+        outline: 7px dashed #5f5b6b;        
+    
+    }  
+    
+    #imagen{
+    
+        width: 250px;
+        height: 250px;
+        margin-top: 60px;
+        margin-left: 90px;
+        border-radius: 10px;
+        
+    }
+    
+    ul {
+        display: inline-block;
+        vertical-align: top;    
+        
+    }
+    
+    #npc{
+    
+        font-size: 30px;
+        margin-left: 110px;
+        background-color: #27407bed;
+        width: 300px;
+        height: 40px;
+        text-align: center;
+        border-radius: 13px;
+        outline: thick double #203361;
+        color: white;
+    }
+    
+    #descripcion{
+        background-color: #0e1c3e ;
+        width: 500px;
+        height: 200px;
+        margin-left: 10px;
+        text-align: justify;
+        border-radius: 10px;
+        color: white;
+        outline: thick double #203772 ;
+    }
+   
 
   }
-
-
-
-   /*  tablets horizontal & laptop vertical (touch screen) */  
-  @media only screen and (min-width:1024px) and (max-width:1279px){}
-
-
-
-   /*  laptops    & Monitores */  
-  @media only screen and (min-width:1280px) and (max-width:1920px){}
-
-
-
-   /*  Televisores  */
-
-  @media only screen and (min-width:1920px){}
 
 
 
 
  
 /*
+
+background-image: url(https://drive.google.com/uc?export=view&id=1aOmIJflvSym6N6WYkIEk6dVWnf6JfAfY);
+
 width: 1860px;
 height: 836px;
 
