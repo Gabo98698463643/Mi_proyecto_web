@@ -2,7 +2,7 @@
 
 
 html{
-    background-color: rgb(38, 141, 238);
+    background-position: center;
 }
 
 body{
@@ -313,105 +313,63 @@ ul {
     html{
         background-color: rgb(38, 141, 238);
     }
-    
-    body{
-    
-        background-image: url(https://drive.google.com/uc?export=view&id=);
-        background-size: cover;
-        width: 1395px;
-        height: 635px;
-        margin-left: 0px;
-        
+
+    body{    
+        background-image: url(https://drive.google.com/uc?export=view&id=1yt2IaFH0RoUaSxhpreCStbG0DOoQzRWZ);
+        width: 1280px;
+        height: 800px;
     }
     
     header{
-        
-        width: 465px;
-        height: 100px;
-        text-align: center;
-        font-family: 'Caveat Brush', cursive;
-        font-size: 30px;
-        margin-left: 465px;
-        margin-bottom: 20px;
-        color: #724a0e;
-        text-shadow: #96d61e 0px -5px 5px;    
-        
+        width: 600px;
+        font-size: 40px;
+        margin-left: 340px;
+        margin-bottom: 50px;   
     }
     
     div{
-    
         width: 1200px;
-        height: 480px;
-        background-color: #626068;
-        font-family: 'Caveat', cursive;
-        font-size: 20px;
-        border-style: solid;
-        text-align: justify;
-        margin: auto;
-        border-radius: 20px;
-        
+        height: 600px;
+        font-size: 30px;
+        border-radius: 25px;
     }
     
     #buscador{
-    
-        background-color: white;
-        width: 250px;
-        height: 20px;
+        width: 300px;
+        height: 35px;
         margin-left: 450px;
-        margin-top: 30px;
-        border-radius: 5px;
+        border-radius: 10px;
     }
     
     #resultados{
-    
-        background-color: #3c5eaf;
-        width: 1000px;
-        height: 370px;
-        margin-top: 30px;
-        margin-left: 100px;
-        border-radius: 20px;
-        outline: 7px dashed #5f5b6b;        
-    
+        width: 1150px;
+        height: 470px;
+        margin-left: 25px;
+        border-radius: 17px;    
     }  
     
-    #imagen{
-    
-        width: 250px;
-        height: 250px;
-        margin-top: 60px;
-        margin-left: 90px;
-        border-radius: 10px;
-        
+    #imagen{    
+        width: 330px;
+        height: 330px;
+        margin-top: 80px;
     }
-    
-    ul {
-        display: inline-block;
-        vertical-align: top;    
-        
-    }
-    
-    #npc{
-    
-        font-size: 30px;
-        margin-left: 110px;
-        background-color: #27407bed;
+
+    #npc{    
+        font-size: 35px;
+        margin-left: 150px;
         width: 300px;
         height: 40px;
-        text-align: center;
-        border-radius: 13px;
-        outline: thick double #203361;
-        color: white;
+        border-radius: 15px;
+        margin-top: 50px;
     }
     
     #descripcion{
-        background-color: #0e1c3e ;
-        width: 500px;
-        height: 200px;
-        margin-left: 10px;
-        text-align: justify;
+        width: 590px;
+        height: 250px;
+        margin-left: 15px;
         border-radius: 10px;
-        color: white;
-        outline: thick double #203772 ;
+        font-size: 25;
+        margin-top: 10px;
     }
    
 
