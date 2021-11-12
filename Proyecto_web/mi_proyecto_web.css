@@ -382,107 +382,69 @@ ul {
   @media only screen and (min-width:1920px){
       
     html{
-        background-color: rgb(38, 141, 238);
+        background-color: #56a2e9;
     }
     
     body{
-    
-        background-image: url(https://drive.google.com/uc?export=view&id=);
-        background-size: cover;
-        width: 1395px;
-        height: 635px;
-        margin-left: 0px;
-        
+        background-image: url(https://drive.google.com/uc?export=view&id=17wt20QPOiZVtW8EZ-19kB2mG_Z0O4_aC);
+        width: 1920px;
+        height: 1200px;
     }
     
     header{
-        
-        width: 465px;
-        height: 100px;
-        text-align: center;
-        font-family: 'Caveat Brush', cursive;
-        font-size: 30px;
-        margin-left: 465px;
-        margin-bottom: 20px;
-        color: #724a0e;
-        text-shadow: #96d61e 0px -5px 5px;    
-        
+        width: 840px;
+        height: 150px;
+        font-size: 50px;
+        margin-left: 540px;
+        margin-bottom: 70px;
     }
     
     div{
-    
-        width: 1200px;
-        height: 480px;
-        background-color: #626068;
-        font-family: 'Caveat', cursive;
-        font-size: 20px;
-        border-style: solid;
-        text-align: justify;
-        margin: auto;
-        border-radius: 20px;
-        
+        width: 1700px;
+        height: 900px;
+        font-size: 40px;
+        border-radius: 30px;
     }
     
     #buscador{
-    
-        background-color: white;
-        width: 250px;
-        height: 20px;
-        margin-left: 450px;
-        margin-top: 30px;
-        border-radius: 5px;
+        width: 400px;
+        height: 50px;
+        margin-left: 700px;
+        border-radius: 20px;
     }
     
     #resultados{
-    
-        background-color: #3c5eaf;
-        width: 1000px;
-        height: 370px;
-        margin-top: 30px;
-        margin-left: 100px;
-        border-radius: 20px;
-        outline: 7px dashed #5f5b6b;        
+        width: 1600px;
+        height: 700px;
+        margin-top: 50px;
+        margin-left: 50px;
+        border-radius: 30px;   
     
     }  
     
     #imagen{
     
-        width: 250px;
-        height: 250px;
-        margin-top: 60px;
+        width: 500px;
+        height: 500px;
+        margin-top: 100px;
         margin-left: 90px;
         border-radius: 10px;
         
     }
     
-    ul {
-        display: inline-block;
-        vertical-align: top;    
-        
-    }
-    
     #npc{
-    
-        font-size: 30px;
-        margin-left: 110px;
-        background-color: #27407bed;
-        width: 300px;
-        height: 40px;
-        text-align: center;
-        border-radius: 13px;
-        outline: thick double #203361;
-        color: white;
+        font-size: 55px;
+        margin-left: 170px;
+        width: 550px;
+        height: 70px;
+        border-radius: 18px;
     }
     
     #descripcion{
-        background-color: #0e1c3e ;
-        width: 500px;
-        height: 200px;
+        width: 900px;
+        height: 380px;
         margin-left: 10px;
-        text-align: justify;
         border-radius: 10px;
-        color: white;
-        outline: thick double #203772 ;
     }
    
 
