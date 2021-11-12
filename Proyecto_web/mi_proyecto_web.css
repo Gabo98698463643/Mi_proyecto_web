@@ -21,8 +21,14 @@ header{
     font-size: 30px;
     margin-left: 465px;
     margin-bottom: 20px;
+  
+}
+
+#h1{ 
     color: #724a0e;
-    text-shadow: #96d61e 0px -5px 5px;    
+    text-shadow: #96d61e 0px -5px 5px;  
+    outline: none;
+    text-decoration: none;
 }
 
 div{

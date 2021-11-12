@@ -10,6 +10,7 @@
 
 #header {     
     margin: auto;
+    text-align: center;
      
     width: 80%;
     height: 15%; 
@@ -39,6 +40,9 @@
 
 .tituloheader{
  text-align: center;
+ outline: none;
+ text-decoration: none;
+ color: black;
 }
 
 
