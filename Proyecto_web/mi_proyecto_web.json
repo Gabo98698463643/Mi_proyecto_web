@@ -21,98 +21,98 @@
         {
             "id":"3",
             "NOMBRE": "Arapaima",
-            "DESCRIPCIÓN": "La Arapaima es un monstruo que aparece tanto en la superficie de la selva como en la selva subterránea pero solamente en el agua.",
+            "DESCRIPCIÓN": "La Arapaima es un monstruo que aparece tanto en la superficie de la selva como en la selva subterránea pero solamente en el agua. Estos enormes peces prosperan en las aguas de la jungla cerca de venas de magia inestable, lo que los hace inusualmente fuertes y hostiles.",
             "IMAGEN": ""
         },
 
         {
             "id":"4",
             "NOMBRE": "Ardilla",
-            "DESCRIPCIÓN": "Esta entidad pasiva tan sólo correrá hacia cualquier dirección y en ocasiones se parará o trepará a lo árboles cercanos. ",
+            "DESCRIPCIÓN": "Esta entidad pasiva tan sólo correrá hacia cualquier dirección y en ocasiones se parará o trepará a lo árboles cercanos. Criaturas del bosque erráticas y de rápido movimiento con pelaje marrón grisáceo. ¿Tienes nueces?",
             "IMAGEN": ""
         },
 
         {
             "id":"5",
             "NOMBRE": "Arpía",
-            "DESCRIPCIÓN": "La arpía es un monstruo volador del modo normal que solo aparece en el espacio exterior en gruposd de hasta 7 o 15. ",
+            "DESCRIPCIÓN": "La arpía es un monstruo volador del modo normal que solo aparece en el espacio exterior en gruposd de hasta 7 o 15. Las mujeres aladas y semihumanas defienden su territorio contra los invasores empalándolos con sus afiladas plumas.",
             "IMAGEN": ""
         },
         
         {
             "id":"6",
             "NOMBRE": "Avispón",
-            "DESCRIPCIÓN": "Los Avispones son enemigos voladores encontrados en la Selva subterránea, vuelan fuera del alcance del jugador y luego le disparan aguijones que pueden envenenar al jugador. ",
+            "DESCRIPCIÓN": "Los Avispones son enemigos voladores encontrados en la Selva subterránea, vuelan fuera del alcance del jugador y luego le disparan aguijones que pueden envenenar al jugador. Insectos voladores agresivos que pululan por las profundidades de la jungla. Sus púas venenosas se descargan a grandes distancias a gran velocidad.",
             "IMAGEN": ""
         },
 
         {
             "id":"7",
             "NOMBRE": "Babosa",
-            "DESCRIPCIÓN": "El Baboso es un animal que aparece ocasionalmente en la Selva y Selva subterránea al romper una planta del fondo. ",
+            "DESCRIPCIÓN": "El Baboso es un animal que aparece ocasionalmente en la Selva y Selva subterránea al romper una planta del fondo. Lento y cubierto de una mucosidad resbaladiza. Los peces se sienten especialmente atraídos por estos.",
             "IMAGEN": ""
         },
     
         {
             "id":"8",
             "NOMBRE": "Búho",
-            "DESCRIPCIÓN": "Aparece en el bosque durante la noche, normalmente vuela cerca del suelo y se posa en cualquer superficie a ulular. ",
+            "DESCRIPCIÓN": "Aparece en el bosque durante la noche, normalmente vuela cerca del suelo y se posa en cualquer superficie a ulular. Un ave depredadora grande y sabia que caza nocturna desde las copas de los árboles.",
             "IMAGEN": ""
         },
 
         {
             "id":"9",
             "NOMBRE": "Bulbo mohoso",
-            "DESCRIPCIÓN": "El Bulbo mohoso aparece muy raramente en la Bioma de champiñones intentando atacar al jugador cuerpo a cuerpo mientras se encuentra anclado a un bloque",
+            "DESCRIPCIÓN": "El Bulbo mohoso aparece muy raramente en la Bioma de champiñones intentando atacar al jugador cuerpo a cuerpo mientras se encuentra anclado a un bloque. Cuando el hongo brillante esté listo para extenderse, estos bulbos brotarán para esparcir sus esporas a otros lugares y huéspedes.",
             "IMAGEN": ""
         },
 
         {
             "id":"10",
             "NOMBRE": "Cabeza meteorito",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "La cabeza meteorito es un enemigo que aparece cerca de llacimientos del mineral de meteorito, vuelan hacia el jugador intentando inflingir el efecto En Llamas.  Cuando los meteoritos golpean la superficie, sus fragmentos yacen esparcidos para tomarlos. Algunas piezas están vivas y atacarán.",
             "IMAGEN": ""
         },
 
         {
             "id":"11",
             "NOMBRE": "Cara mounstro",
-            "DESCRIPCIÓN": "La cabeza meteorito es un enemigo que aparece cerca de llacimientos del mineral de meteorito, vuelan hacia el jugador intentando inflingir el efecto En Llamas. ",
+            "DESCRIPCIÓN": "El Caramonstruo aparece solamente en la superficie del carmesí, es un monstruo relativamente rápido, ataca de manera muy similar a los zombis pero con una mayor resistencia al retroceso.  No sería prudente enfrentarse a una de estas mutaciones insensibles y hambrientas. Sus bocas son lo suficientemente grandes como para devorar todas las cosas.",
             "IMAGEN": ""
         },
 
         {
             "id":"12",
             "NOMBRE": "Cargador de hormigas león",
-            "DESCRIPCIÓN": "El cargador de hormigas león aparece en el desierto subterráneo o durante una tormenta de arena se genera en la superficie atacando al jugador cargando a gran velocidad. ",
+            "DESCRIPCIÓN": "El cargador de hormigas león aparece en el desierto subterráneo o durante una tormenta de arena se genera en la superficie atacando al jugador cargando a gran velocidad. Los soldados de la especie hormiga león, Antlion Chargers, persiguen ferozmente a los intrusos con una velocidad sorprendente.",
             "IMAGEN": ""
         },
 
         {
             "id":"13",
             "NOMBRE": "Carmebicho",
-            "DESCRIPCIÓN": "El Carmebicho son enemigos voladores encontrados en todo el Carmesí volando hacia el jugador intentando dañarlo con pequeñas embestidas.  ",
+            "DESCRIPCIÓN": "El Carmebicho son enemigos voladores encontrados en todo el Carmesí volando hacia el jugador intentando dañarlo con pequeñas embestidas.  El horror más común que nace del Crimson, busca consumir cosas puras con un hambre implacable.",
             "IMAGEN": ""
         },
 
         {
             "id":"14",
             "NOMBRE": "Criatura de pared",
-            "DESCRIPCIÓN": "La criatura de pared es un monstruo que aparece únicamente en el modo norma dentro de nidos de arañas, puede dañar al jugador mediante el contacto y se vuelve inmine al retroceso mientras trepa paredes. ",
+            "DESCRIPCIÓN": "La criatura de pared es un monstruo que aparece únicamente en el modo norma dentro de nidos de arañas, puede dañar al jugador mediante el contacto y se vuelve inmine al retroceso mientras trepa paredes. Tienen ocho patas, ocho ojos y ocho formas de acurrucarse y deleitarse con una víctima desprevenida.",
             "IMAGEN": ""
         },
 
         {
             "id":"15",
             "NOMBRE": "Crisopa prismática",
-            "DESCRIPCIÓN": "La crisopa prismática es un animal del modo difícil que aparece raramente en la bendición desde el atardecer hasta medianoche (7:30 PM a 12:00 AM) y luego de derrotar a Plantera, al ser dañada invoca a la Emperatriz de la luz. Sus alas son muy delicadas y debes tener mucho cuidado para no hacerle daño...",
+            "DESCRIPCIÓN": "La crisopa prismática es un animal del modo difícil que aparece raramente en la bendición desde el atardecer hasta medianoche (7:30 PM a 12:00 AM) y luego de derrotar a Plantera, al ser dañada invoca a la Emperatriz de la luz. Sus alas son muy delicadas y debes tener mucho cuidado para no hacerle daño...  ",
             "IMAGEN": ""
         },
 
         {
             "id":"16",
             "NOMBRE": "Diablillo de fuego",
-            "DESCRIPCIÓN": "El diablillo de fuego aparece en el inframundo con bastante frecuencia, ataca al jugador disparando rafagas de proyectiles (esfera ardiente) para después teletransportarse a otra ubicación cercana. ",
+            "DESCRIPCIÓN": "El diablillo de fuego aparece en el inframundo con bastante frecuencia, ataca al jugador disparando rafagas de proyectiles (esfera ardiente) para después teletransportarse a otra ubicación cercana. Un demonio menor imbuido de magia infernal. Capaz de teletransportarse y lanzar bolas de fuego fantasmas hacia sus enemigos.",
             "IMAGEN": ""
         },
 
@@ -126,112 +126,112 @@
         {
             "id":"18",
             "NOMBRE": "Doctor látigo",
-            "DESCRIPCIÓN": "El Doctor Látigo es una de las variantes de zombis especiales, sus características e IA no cambian, solo se puede generar cualquier parte de la selva y al ser derrotado deja el sonbrero de arqueólogo. ",
+            "DESCRIPCIÓN": "El Doctor Látigo es una de las variantes de zombis especiales, sus características e IA no cambian, solo se puede generar cualquier parte de la selva y al ser derrotado deja el sonbrero de arqueólogo. Este zombi en particular tiene una habilidad especial para encontrar artefactos históricos, pero tiene un desdén terrible hacia las serpientes.",
             "IMAGEN": ""
         },
 
         {
             "id":"19",
             "NOMBRE": "Duende arquero",
-            "DESCRIPCIÓN": "El duende arquero aparece junto al ejército de duendes disparando flechas de madera al jugador sin ninguna característica especial. ",
+            "DESCRIPCIÓN": "El duende arquero aparece junto al ejército de duendes disparando flechas de madera al jugador sin ninguna característica especial. Al prestar apoyo a distancia al Ejército Goblin, los arqueros se mantienen a distancia y eliminan a los enemigos abrumados y distraídos.",
             "IMAGEN": ""
         },
 
         {
             "id":"20",
             "NOMBRE": "Duede explorador",
-            "DESCRIPCIÓN": "El duende explorador puede aparecer solamente en los dos tercios exteriores del mapa y nunca cerca del punto de aparición natural, en biomas corruptos o en horario nocturno.  ",
+            "DESCRIPCIÓN": "El duende explorador puede aparecer solamente en los dos tercios exteriores del mapa y nunca cerca del punto de aparición natural, en biomas corruptos o en horario nocturno.  El ejército de duendes envía soldados solitarios desde las playas en busca de colonias que conquistar. Dan una advertencia con un sigilo hecho jirones.",
             "IMAGEN": ""
         },
 
         {
             "id":"21",
             "NOMBRE": "Duende guerrero",
-            "DESCRIPCIÓN": "El duende guerrero aparece junto al ejército de duendes intentando hacer daño al jugador mediante al contacto, compensa su lentitud con la capacidad de abrir puertas. ",
+            "DESCRIPCIÓN": "El duende guerrero aparece junto al ejército de duendes intentando hacer daño al jugador mediante al contacto, compensa su lentitud con la capacidad de abrir puertas. La columna vertebral de la infantería del Ejército Goblin, estos soldados fuertemente armados pueden sufrir un daño tremendo mientras marchan sin inmutarse.",
             "IMAGEN": ""
         },
 
         {
             "id":"22",
             "NOMBRE": "Duende hechicero",
-            "DESCRIPCIÓN": "El Duende hechicero aparece durante el evento ejército de duendes, se puede teletransporat cerca del jugadro y lanzar 3 bolas del caos que pueden atravesar bloques. ",
+            "DESCRIPCIÓN": "El Duende hechicero aparece durante el evento ejército de duendes, se puede teletransporat cerca del jugadro y lanzar 3 bolas del caos que pueden atravesar bloques. Tan primitivos como son, algunos goblins tienen el potencial de manipular la energía de las sombras mágicas a través de una forma de maleficio.",
             "IMAGEN": ""
         },
 
         {
             "id":"23",
             "NOMBRE": "Duende ladrón",
-            "DESCRIPCIÓN": "El duende ladrón aparece durante el ejército de duendes, intenta atacar al jugador persiguiéndolo para hacerle daño mediante contacto, se mueve más rápido que todos los monstruos saltando varios bloques y abriendo puertas. ",
+            "DESCRIPCIÓN": "El duende ladrón aparece durante el ejército de duendes, intenta atacar al jugador persiguiéndolo para hacerle daño mediante contacto, se mueve más rápido que todos los monstruos saltando varios bloques y abriendo puertas. Unidades de ataque rápido del Ejército Goblin, estos molestos enemigos se especializan en movimientos ágiles y combates cuerpo a cuerpo.",
             "IMAGEN": ""
         },
 
         {
             "id":"24",
             "NOMBRE": "Duende peón",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El Duende peón aparece junto al ejército de duendes, es el duende más básico y con estadísticas más bajas del evento, la única forma que tiene de atacar al jugador es haciendo daño por contacto con la capacidad de destruir puertas a su paso.  Soldados comunes del Ejército Goblin, estas horribles criaturas sirven para poco más que carne de cañón ... y derribar puertas.",
             "IMAGEN": ""
         },
         
         {
             "id":"25",
             "NOMBRE": "Enjambre de hormigas león",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El Enjambre de hormigas león es un monstruo volador encontrado en los biomas del Desierto Subterráneo, es similar a la Hormiga león y al Cargador de hormigas león.  Los enjambres de hormigas león patrullan sus nidos con una mirada atenta. Si alguien amenaza sus huevos, los defenderá ferozmente",
             "IMAGEN": ""
         },
 
         {
             "id":"26",
             "NOMBRE": "Excavador",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El excavador se conforma de varios segmentos, se genera en el subsuelo y en las cavernas embistiendo al jugador a travez de bloques sólidos.  La exposición a los efectos de la magia antigua que fluye a través de las grietas del mundo provoca un crecimiento rápido inusual en gusanos gigantes.",
             "IMAGEN": ""
         },
 
         {
             "id":"27",
             "NOMBRE": "Flufy",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El copito de nieve es un monstruo del modo normal que aparece solamente en la tundra subterránea, no es muy peligroso ya que la única manera que tiene de hacer daño es mediante el contacto y como su resistencia al retroceso es muy baja, en el momento que son golpeados, salen disparados en dirección contraria.  Un extraño mamífero peludo redondo con una nariz sobresaliente inusualmente grande. Son extremadamente ligeros.",
             "IMAGEN": ""
         },
 
         {
             "id":"28",
             "NOMBRE": "Globo ventoso",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El globo ventoso aparece unicamente durante días con fuertes corrientes de viento, viene con un slime atado que deja caer como un proyectil al hacerce daño o chocar con una estructura.  Algunos slimes emprendedores viajan en las corrientes de viento con globos en un esfuerzo por encontrar comida. Haga estallar sus globos para traerlos de vuelta a la tierra.",
             "IMAGEN": ""
         },
 
         {
             "id":"29",
             "NOMBRE": "Gnomo",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El Gnomo aparece normalmente en el interior de árboles vivientes o zonas con paredes de madera, si un gnomo entra en contacto con el sol se convertirá en piedra.  Un pequeño chivato de barba larga que reside en árboles de gran tamaño. Se convierte en un adorno de césped cuando se expone a la luz solar.",
             "IMAGEN": ""
         },
 
         {
             "id":"30",
             "NOMBRE": "Golem de granito",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El golem de granito aparece en las cuevas de granito, al estar cerca del jugador hará un gruñido haciendo que sea fácil de encontrar, cada varios segundos, el gólem se cubrirá y se volverá totalmente inmune.  Fuertes son los espíritus mágicos que habitan las masas de granito en las profundidades, este tipo en particular tomando una forma humanoide",
             "IMAGEN": ""
         },
 
         {
             "id":"31",
             "NOMBRE": "Granito elemental",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El Elemental de granito es un enemigo que aparece solamente en la cueva de granito, si el jugador está lejos atravesará bloques para alcanzarlo.  Los elementales de la tierra se manifiestan a través de muchas formas al adquirir las propiedades de diferentes materiales, como este granito resistente.",
             "IMAGEN": ""
         },
 
         {
             "id":"32",
             "NOMBRE": "Guillermo",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El Pececillo es un monstruo pacífico,  se encuentra de día y muy extrañamente de noche, en algunas lagunas y donde hay agua.  Un pez dorado aparentemente normal, hasta que decide llover.",
             "IMAGEN": ""
         },
 
         {
             "id":"33",
             "NOMBRE": "Gusano gigante",
-            "DESCRIPCIÓN": "",
+            "DESCRIPCIÓN": "El gusano gigante es un monstruo excavador del subsuelo, ira atravesando el suelo hasta estar lo suficientemente cerca del jugador para saltar y golpearlo.  Estos pequeños y pequeños cavadores cavan en la tierra y toman por sorpresa a los espeleólogos concentrados, causando una angustia no deseada.",
             "IMAGEN": ""
         },
 
