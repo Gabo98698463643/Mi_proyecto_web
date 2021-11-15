@@ -1,9 +1,455 @@
-{
-    "npc 1":{
-        "NOMBRE": "",
-        "DESCRIPCIÓN": "",
-        "IMAGEN": ""
-    }
+{ 
+    "apiName": "Terrapi",
+    "origin": "Mexico" ,
+    "created": 2021,
+    "figures":[
+
+        {
+            "id":"1",
+            "NOMBRE": "Inicio",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"2",
+            "NOMBRE": "Abeja",
+            "DESCRIPCIÓN": "Las abejas son pequeños enemigos que son invocados por la abeja reina y se generan al romper bloques de colmena. Estas pequeñas se encuentran en nidos y colmenas por toda la jungla y azotarán a los aventureros a la mínima de cambio",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"3",
+            "NOMBRE": "Arapaima",
+            "DESCRIPCIÓN": "La Arapaima es un monstruo que aparece tanto en la superficie de la selva como en la selva subterránea pero solamente en el agua.",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"4",
+            "NOMBRE": "Ardilla",
+            "DESCRIPCIÓN": "Esta entidad pasiva tan sólo correrá hacia cualquier dirección y en ocasiones se parará o trepará a lo árboles cercanos. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"5",
+            "NOMBRE": "Arpía",
+            "DESCRIPCIÓN": "La arpía es un monstruo volador del modo normal que solo aparece en el espacio exterior en gruposd de hasta 7 o 15. ",
+            "IMAGEN": ""
+        },
+        
+        {
+            "id":"6",
+            "NOMBRE": "Avispón",
+            "DESCRIPCIÓN": "Los Avispones son enemigos voladores encontrados en la Selva subterránea, vuelan fuera del alcance del jugador y luego le disparan aguijones que pueden envenenar al jugador. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"7",
+            "NOMBRE": "Babosa",
+            "DESCRIPCIÓN": "El Baboso es un animal que aparece ocasionalmente en la Selva y Selva subterránea al romper una planta del fondo. ",
+            "IMAGEN": ""
+        },
+    
+        {
+            "id":"8",
+            "NOMBRE": "Búho",
+            "DESCRIPCIÓN": "Aparece en el bosque durante la noche, normalmente vuela cerca del suelo y se posa en cualquer superficie a ulular. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"9",
+            "NOMBRE": "Bulbo mohoso",
+            "DESCRIPCIÓN": "El Bulbo mohoso aparece muy raramente en la Bioma de champiñones intentando atacar al jugador cuerpo a cuerpo mientras se encuentra anclado a un bloque",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"10",
+            "NOMBRE": "Cabeza meteorito",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"11",
+            "NOMBRE": "Cara mounstro",
+            "DESCRIPCIÓN": "La cabeza meteorito es un enemigo que aparece cerca de llacimientos del mineral de meteorito, vuelan hacia el jugador intentando inflingir el efecto En Llamas. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"12",
+            "NOMBRE": "Cargador de hormigas león",
+            "DESCRIPCIÓN": "El cargador de hormigas león aparece en el desierto subterráneo o durante una tormenta de arena se genera en la superficie atacando al jugador cargando a gran velocidad. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"13",
+            "NOMBRE": "Carmebicho",
+            "DESCRIPCIÓN": "El Carmebicho son enemigos voladores encontrados en todo el Carmesí volando hacia el jugador intentando dañarlo con pequeñas embestidas.  ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"14",
+            "NOMBRE": "Criatura de pared",
+            "DESCRIPCIÓN": "La criatura de pared es un monstruo que aparece únicamente en el modo norma dentro de nidos de arañas, puede dañar al jugador mediante el contacto y se vuelve inmine al retroceso mientras trepa paredes. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"15",
+            "NOMBRE": "Crisopa prismática",
+            "DESCRIPCIÓN": "La crisopa prismática es un animal del modo difícil que aparece raramente en la bendición desde el atardecer hasta medianoche (7:30 PM a 12:00 AM) y luego de derrotar a Plantera, al ser dañada invoca a la Emperatriz de la luz. Sus alas son muy delicadas y debes tener mucho cuidado para no hacerle daño...",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"16",
+            "NOMBRE": "Diablillo de fuego",
+            "DESCRIPCIÓN": "El diablillo de fuego aparece en el inframundo con bastante frecuencia, ataca al jugador disparando rafagas de proyectiles (esfera ardiente) para después teletransportarse a otra ubicación cercana. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"17",
+            "NOMBRE": "Diente de león enfadado",
+            "DESCRIPCIÓN": "El diente de león enojado que aparece en el césped durante un día ventoso y no se puede mover del punto en el que se generó, solo puede atacar al jugador disparando proyectiles lentos. Todo este viento puede enojar a cualquiera. Evidentemente, esto incluye dientes de león inofensivos y a sus semillas mortales.",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"18",
+            "NOMBRE": "Doctor látigo",
+            "DESCRIPCIÓN": "El Doctor Látigo es una de las variantes de zombis especiales, sus características e IA no cambian, solo se puede generar cualquier parte de la selva y al ser derrotado deja el sonbrero de arqueólogo. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"19",
+            "NOMBRE": "Duende arquero",
+            "DESCRIPCIÓN": "El duende arquero aparece junto al ejército de duendes disparando flechas de madera al jugador sin ninguna característica especial. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"20",
+            "NOMBRE": "Duede explorador",
+            "DESCRIPCIÓN": "El duende explorador puede aparecer solamente en los dos tercios exteriores del mapa y nunca cerca del punto de aparición natural, en biomas corruptos o en horario nocturno.  ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"21",
+            "NOMBRE": "Duende guerrero",
+            "DESCRIPCIÓN": "El duende guerrero aparece junto al ejército de duendes intentando hacer daño al jugador mediante al contacto, compensa su lentitud con la capacidad de abrir puertas. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"22",
+            "NOMBRE": "Duende hechicero",
+            "DESCRIPCIÓN": "El Duende hechicero aparece durante el evento ejército de duendes, se puede teletransporat cerca del jugadro y lanzar 3 bolas del caos que pueden atravesar bloques. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"23",
+            "NOMBRE": "Duende ladrón",
+            "DESCRIPCIÓN": "El duende ladrón aparece durante el ejército de duendes, intenta atacar al jugador persiguiéndolo para hacerle daño mediante contacto, se mueve más rápido que todos los monstruos saltando varios bloques y abriendo puertas. ",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"24",
+            "NOMBRE": "Duende peón",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+        
+        {
+            "id":"25",
+            "NOMBRE": "Enjambre de hormigas león",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"26",
+            "NOMBRE": "Excavador",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"27",
+            "NOMBRE": "Flufy",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"28",
+            "NOMBRE": "Globo ventoso",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"29",
+            "NOMBRE": "Gnomo",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"30",
+            "NOMBRE": "Golem de granito",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"31",
+            "NOMBRE": "Granito elemental",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"32",
+            "NOMBRE": "Guillermo",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"33",
+            "NOMBRE": "Gusano gigante",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"34",
+            "NOMBRE": "Murciélago de hielo",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"35",
+            "NOMBRE": "Nimbo enfadado",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"36",
+            "NOMBRE": "Ojo errante",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"37",
+            "NOMBRE": "Pilar de nebulosa",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"38",
+            "NOMBRE": "Pilar de stardust",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"39",
+            "NOMBRE": "Pilar de vortex",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"40",
+            "NOMBRE": "Pilar solar",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"41",
+            "NOMBRE": "Pinky",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"42",
+            "NOMBRE": "Serpiente de hueso",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"43",
+            "NOMBRE": "Slime (Halloween)",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"44",
+            "NOMBRE": "Trepasangre",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"45",
+            "NOMBRE": "Visión antigua",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"46",
+            "NOMBRE": "(J) Abeja reina",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"47",
+            "NOMBRE": "(J) Cerebro de Cthulhu",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"48",
+            "NOMBRE": "(J) Devoramundos",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"49",
+            "NOMBRE": "(J) Duke Fishron",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"50",
+            "NOMBRE": "(J) El Destructor",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"51",
+            "NOMBRE": "(J) El Dios antorcha",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"52",
+            "NOMBRE": "(J) Emperatriz de la luz",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"53",
+            "NOMBRE": "(J) Espasmatizor",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"54",
+            "NOMBRE": "(J) Esqueletrón",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"55",
+            "NOMBRE": "(J) Esqueletrón Prime",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"56",
+            "NOMBRE": "(J) Gólem",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"57",
+            "NOMBRE": "(J) Muro de Carne",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"58",
+            "NOMBRE": "(J) Ojo de Cthulhu",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"59",
+            "NOMBRE": "(J) Plantera",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"60",
+            "NOMBRE": "(J) Retinator",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"61",
+            "NOMBRE": "(J) Rey slime",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"62",
+            "NOMBRE": "(J) Sectario Lunático",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        },
+
+        {
+            "id":"63",
+            "NOMBRE": "(F) Moonlord",
+            "DESCRIPCIÓN": "",
+            "IMAGEN": ""
+        }
+
+        
+    
+
+        
+
+    ]
+
 }
-
-
