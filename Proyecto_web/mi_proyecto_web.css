@@ -119,6 +119,37 @@ ul {
     outline: thick double #203772 ;
 }
 
+.texto{
+    
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Caveat', cursive;
+    display: inline-block;
+    margin-left: -40px;
+}
+
+.hp{
+    display: inline-block;
+    text-align: left;
+    ;
+}
+
+.atk{
+    display: inline-block;
+    margin-left: 340px;
+}
+
+.letritasH{
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    color: rgb(212, 27, 27)    
+}
+
+.letritasA{
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    color:rgb(221, 135, 37)
+}
 
 
 
@@ -131,7 +162,6 @@ ul {
     }
     
     body{    
-        background-color: transparent;
         width: 320px;
         height: 480px;
         }
@@ -142,8 +172,6 @@ ul {
         font-size: 15px;
         margin-left: 10px;
         }
-
-
         
     nav{
         margin:auto ;
@@ -163,9 +191,7 @@ ul {
         font-size: 10px;
         color: white;
     }
-
-    
-    
+   
     div{    
         width: 300px;
         height: 330px;
@@ -173,9 +199,9 @@ ul {
     }
     
     #buscador{    
-        width: 100px;
+        width: 200px;
         height: 15px;
-        margin-left: 100px;
+        margin-left: 50px;
         margin-top: 10px;
         border-radius: 5px;
     }
@@ -208,12 +234,33 @@ ul {
     }
     
     #descripcion{
-
-        width: 250px;
+        width: 210px;
         height: 125px;
         margin-left: -25px;
         border-radius: 5px;
         font-size: 10px;
+    }
+
+    .texto{    
+        margin-left: -40px;
+    }
+    
+    .hp{
+        margin-left: -50px;
+    }
+    
+    .atk{
+        margin-left: 100px;
+    }
+    
+    .letritasH{
+        font-size: 10px;
+        margin-top: -0px;
+    }
+
+    .letritasA{
+        font-size: 10px;
+        margin-top: -0px;
     }
    
   }
@@ -309,6 +356,31 @@ ul {
         border-radius: 8px;
         font-size: 18px;
     }
+
+    .texto{
+    
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Caveat', cursive;
+        display: inline-block;
+        margin-left: -40px;
+    }
+    
+    .hp{
+        display: inline-block;
+        text-align: left;
+        ;
+    }
+    
+    .atk{
+        display: inline-block;
+        margin-left: 340px;
+    }
+    
+    .letritas{
+        font-size: 20px;
+        font-family: 'Caveat', cursive
+    }
    
 
   }
@@ -392,6 +464,31 @@ ul {
         margin-top: 110px;
         margin-left: -260px;
         border-radius: 0px;
+    }
+
+    .texto{
+    
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Caveat', cursive;
+        display: inline-block;
+        margin-left: -40px;
+    }
+    
+    .hp{
+        display: inline-block;
+        text-align: left;
+        ;
+    }
+    
+    .atk{
+        display: inline-block;
+        margin-left: 340px;
+    }
+    
+    .letritas{
+        font-size: 20px;
+        font-family: 'Caveat', cursive
     }
        
 
@@ -483,6 +580,30 @@ ul {
         margin-top: 10px;
     }
    
+    .texto{
+    
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Caveat', cursive;
+        display: inline-block;
+        margin-left: -40px;
+    }
+    
+    .hp{
+        display: inline-block;
+        text-align: left;
+        ;
+    }
+    
+    .atk{
+        display: inline-block;
+        margin-left: 340px;
+    }
+    
+    .letritas{
+        font-size: 20px;
+        font-family: 'Caveat', cursive
+    }
 
   }
 
@@ -575,6 +696,31 @@ ul {
         height: 380px;
         margin-left: 10px;
         border-radius: 10px;
+    }
+
+    .texto{
+    
+        margin: 0px;
+        padding: 0px;
+        font-family: 'Caveat', cursive;
+        display: inline-block;
+        margin-left: -40px;
+    }
+    
+    .hp{
+        display: inline-block;
+        text-align: left;
+        ;
+    }
+    
+    .atk{
+        display: inline-block;
+        margin-left: 340px;
+    }
+    
+    .letritas{
+        font-size: 20px;
+        font-family: 'Caveat', cursive
     }
    
 
