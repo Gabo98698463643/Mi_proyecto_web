@@ -63,7 +63,7 @@ div{
     border-radius: 20px;    
 }
 
-#buscador{
+select{
     background-color: white;
     width: 250px;
     height: 20px;
@@ -83,7 +83,7 @@ div{
     outline: 7px dashed #5f5b6b; 
 }  
 
-#imagen{
+.imagen{
     width: 250px;
     height: 250px;
     margin-top: 60px;
@@ -96,7 +96,7 @@ ul {
     vertical-align: top;   
 }
 
-#npc{
+.npc{
     font-size: 30px;
     margin-left: 110px;
     background-color: #27407bed;
@@ -108,7 +108,7 @@ ul {
     color: white;
 }
 
-#descripcion{
+#desc{
     background-color: #0e1c3e ;
     width: 500px;
     height: 200px;
@@ -153,7 +153,7 @@ ul {
 
 
 
-   /* Smarthphone vertical  INFRAMUNDO background-color: rgb(77, 1, 1);*/  
+   /* Smarthphone vertical  INFRAMUNDO background-color: rgb(77, 1, 1);  
   @media (max-width:640px){
 
     html{
@@ -266,7 +266,7 @@ ul {
   }
 
 
-   /*  Smarthphone horizontal  & tablets vertical HONGOS */ 
+   /*  Smarthphone horizontal  & tablets vertical HONGOS 
   @media only screen and (min-width:640px) and (max-width:1024px){
       
     html{
@@ -387,7 +387,7 @@ ul {
 
 
 
-   /*  tablets horizontal & laptop vertical (touch screen) SUBSUELO */  
+   /*  tablets horizontal & laptop vertical (touch screen) SUBSUELO   
   @media only screen and (min-width:1024px) and (max-width:1280px){
       
     html{
@@ -496,7 +496,7 @@ ul {
 
 
 
-   /*  laptops    & Monitores SUPERFICIE. */  
+   /*  laptops    & Monitores SUPERFICIE. 
   @media only screen and (min-width:1280px) and (max-width:1920px){
 
     html{
@@ -609,7 +609,7 @@ ul {
 
 
 
-   /*  Televisores STARDUST */
+   /*  Televisores STARDUST 
 
   @media only screen and (min-width:1920px){
       
