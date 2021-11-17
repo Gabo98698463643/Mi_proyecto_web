@@ -2,27 +2,27 @@
 
 
 html{
+    background-color: black;
     background-position: center;
 }
 
 body{
-    /*  background-image: url(https://drive.google.com/uc?export=view&id=1CGcWOhiCjDpbqFSZeIz6bFB5fsujWxsZ); */
-    background-size: cover;
     width: 1395px;
-    height: 635px;
+    height: 710px;
     margin: auto;
 }
 
 header{    
     width: 465px;
     height: 100px;
-    text-align: center;
-    font-family: 'Caveat Brush', cursive;
-    font-size: 30px;
+
     margin-left: 465px;  
 }
 
-#h1{ 
+header > h1{ 
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+    font-size: 30px;
     color: #724a0e;
     text-shadow: #96d61e 0px -5px 5px;  
     outline: none;
@@ -30,13 +30,15 @@ header{
 }
 
 nav{
-    margin-left:150px ;
+    margin-top: -25px;
+    margin-left:400px ;
     border-color: gray;
-    outline: solid rgb(46, 60, 184);
+    outline: solid wheat;
+    width: 600px;
 }
 
 a { 
-    padding-left: 200px;
+    padding-left: 100px;
     font-size: 20px;
     outline: none;
     text-decoration: none;
@@ -49,6 +51,8 @@ p {
     font-size: 20px;
     text-align: center;
     font-family: 'Caveat Brush', cursive;
+    width: 90%;
+    margin: auto;
 }
 
 div{
@@ -73,17 +77,17 @@ select{
     text-align: center;
 }
 
-#resultados{
+div > section{
     background-color: #3c5eaf;
     width: 1000px;
     height: 370px;
-    margin-top: 30px;
+    margin-top: 10px;
     margin-left: 100px;
     border-radius: 20px;
     outline: 7px dashed #5f5b6b; 
 }  
 
-.imagen{
+section > img{
     width: 250px;
     height: 250px;
     margin-top: 60px;
@@ -96,7 +100,7 @@ ul {
     vertical-align: top;   
 }
 
-.npc{
+ul > p{
     font-size: 30px;
     margin-left: 110px;
     background-color: #27407bed;
@@ -108,7 +112,7 @@ ul {
     color: white;
 }
 
-#desc{
+div > section > ul > ul{
     background-color: #0e1c3e ;
     width: 500px;
     height: 200px;
@@ -119,154 +123,147 @@ ul {
     outline: thick double #203772 ;
 }
 
-.texto{
-    
+ul > ul > p{    
     margin: 0px;
     padding: 0px;
     font-family: 'Caveat', cursive;
     display: inline-block;
     margin-left: -40px;
-}
-
-.hp{
-    display: inline-block;
-    text-align: left;
-    ;
-}
-
-.atk{
-    display: inline-block;
-    margin-left: 340px;
-}
-
-.letritasH{
     font-size: 20px;
-    font-family: 'Caveat', cursive;
-    color: rgb(212, 27, 27)    
 }
 
-.letritasA{
-    font-size: 20px;
+ul > ul > section > p{
     font-family: 'Caveat', cursive;
-    color:rgb(221, 135, 37)
+    display: inline-block;
+    margin-left: 90px;  
 }
 
 
-
-   /* Smarthphone vertical  INFRAMUNDO background-color: rgb(77, 1, 1);  
+   /* Smarthphone vertical  INFRAMUNDO background-color: rgb(77, 1, 1); */
   @media (max-width:640px){
 
-    html{
+html{
         background-image: url(https://drive.google.com/uc?export=view&id=1PdwmIvareWT9mEUqN-AzjkHcuVm5t30O);
         background-size: cover;
-    }
+}
     
-    body{    
+body{    
+        background-color: transparent;
+        margin: auto;
         width: 320px;
         height: 480px;
-        }
+}
     
-    header{        
+header{        
         width: 300px;
         height: 40px;
         font-size: 15px;
         margin-left: 10px;
-        }
+}
+    
+header > h1{
+        text-align: center;
+        font-family: 'Caveat Brush', cursive;
+        font-size: 25px;
+        color: #724a0e;
+        text-shadow: #96d61e 0px -5px 5px;  
+        outline: none;
+        text-decoration: none;
+}
         
-    nav{
+nav{
         margin:auto ;
         outline: solid wheat;
-        width: 125px;
+        width: 155px;
         height: 20px;
-        padding-left: 5px;
-    }
+        padding-left: 10px;
+}
         
-    a { 
-        padding-left: 0px;
+a { 
+        padding-left:5px;
         font-size: 10px;
         color: white;
-    }
+}
         
-    p {
-        font-size: 10px;
-        color: white;
-    }
+p {
+    padding-top: 5px;
+    font-size: 9px;
+    color: white;
+    text-align: justify;
+    width: 90%;
+    margin: auto;
+}
    
-    div{    
+div{    
         width: 300px;
         height: 330px;
-        font-size: 10px;        
-    }
+        font-size: 10px; 
+        margin-top: 20px;       
+}
     
-    #buscador{    
+select {    
         width: 200px;
         height: 15px;
-        margin-left: 50px;
-        margin-top: 10px;
+        margin-left: 60px;
+        margin-top: 5px;
+        margin-bottom: 5px;
         border-radius: 5px;
-    }
-    
-    #resultados{    
+}
 
+div > section{    
         width: 280px;
         height: 280px;
         margin-top: 10px;
         margin-left: 10px;
         border-radius: 20px;
+        background-color: #3c5eaf;
         outline: 3px dashed #5f5b6b;   
-    }     
+}     
     
-    #imagen{    
+section > img{    
         width: 80px;
         height: 80px;
         margin-top: 10px;
         margin-left: 100px;
         border-radius: 5px;
-        }
+}
     
-    #npc{    
+div > section > ul > p{    
         font-size: 15px;
         margin-left: 25px;
-        margin-top: 5px;
+        margin-top: 0px;
         width: 150px;
         height: 20px;
         border-radius: 5px;
-    }
+}
     
-    #descripcion{
+div > section > ul > ul{
+        margin-top: 15px;
         width: 210px;
-        height: 125px;
+        height: 130px;
         margin-left: -25px;
         border-radius: 5px;
         font-size: 10px;
-    }
+}
 
-    .texto{    
+ul > ul > p{    
+        text-align: justify;
+        background-color: transparent;
+        outline: none;
         margin-left: -40px;
-    }
-    
-    .hp{
-        margin-left: -50px;
-    }
-    
-    .atk{
-        margin-left: 100px;
-    }
-    
-    .letritasH{
         font-size: 10px;
-        margin-top: -0px;
-    }
+        width: 240px;
+}
+    
+ul > ul > section > p{
+        font-family: 'Caveat', cursive;
+        display: inline-block;
+        margin-left: -40px;  
+}
+}
 
-    .letritasA{
-        font-size: 10px;
-        margin-top: -0px;
-    }
-   
-  }
 
-
-   /*  Smarthphone horizontal  & tablets vertical HONGOS 
+   /*  Smarthphone horizontal  & tablets vertical HONGOS */
   @media only screen and (min-width:640px) and (max-width:1024px){
       
     html{
@@ -275,6 +272,7 @@ ul {
     
     body{    
         background-image: url(https://drive.google.com/uc?export=view&id=1aOmIJflvSym6N6WYkIEk6dVWnf6JfAfY);
+        background-size: cover;
         width: 640px;
         height: 960px;
     }
@@ -282,18 +280,21 @@ ul {
     header{
         width: 450px;
         height: 100px;
-        font-size: 30px;
+        font-size: 40px;
         margin-left: 95px;
+    } 
+
+    header > h1{ 
+        font-size: 50px;
     }
-    
-    
-        
         
     nav{
-        margin-left:207px ;
+        margin-left:200px ;
+        margin-bottom: 10px;
         width: 225px;
         height: 20px; 
-        padding-left: 10px;     
+        padding-left: 30px;     
+        
     }
         
     a { 
@@ -306,9 +307,6 @@ ul {
         font-size: 20px;
         color: white;
     }
-
-    
-    
 
     div{
     
@@ -318,15 +316,16 @@ ul {
         
     }
     
-    #buscador{
+    select{
         width: 300px;
         height: 25px;
         margin-left: 150px;
         margin-top: 20px;
         border-radius: 5px;
+        font-size: 20px;
     }
     
-    #resultados{
+    div > section{
         width: 550px;
         height: 620px;
         margin-left: 25px;
@@ -334,14 +333,14 @@ ul {
         outline: 5px dashed #5f5b6b;     
     }  
     
-    #imagen{    
+    section > img{    
         width: 200px;
         height: 200px;
         margin-top: 30px;
         margin-left: 175px;
     }
     
-    #npc{    
+    ul > p{    
         font-size: 20px;
         margin-left: 110px;
         width: 250px;
@@ -349,7 +348,7 @@ ul {
         border-radius: 10px;
 }
     
-    #descripcion{
+    div > section > ul > ul{
         width: 525px;
         height: 280px;
         margin-left: -27px;
@@ -357,37 +356,30 @@ ul {
         font-size: 18px;
     }
 
-    .texto{
+    ul > ul > p{
     
         margin: 0px;
         padding: 0px;
         font-family: 'Caveat', cursive;
         display: inline-block;
         margin-left: -40px;
+        text-align: justify;
+        background-color: transparent;
+        outline: none;
+
     }
     
-    .hp{
+    ul > ul > section > p{
+        font-family: 'Caveat', cursive;
         display: inline-block;
-        text-align: left;
-        ;
+        margin-left: 90px;  
     }
     
-    .atk{
-        display: inline-block;
-        margin-left: 340px;
-    }
-    
-    .letritas{
-        font-size: 20px;
-        font-family: 'Caveat', cursive
-    }
-   
-
-  }
+}
 
 
 
-   /*  tablets horizontal & laptop vertical (touch screen) SUBSUELO   
+   /*  tablets horizontal & laptop vertical (touch screen) SUBSUELO */  
   @media only screen and (min-width:1024px) and (max-width:1280px){
       
     html{
@@ -405,10 +397,17 @@ ul {
         height: 100px;
         font-size: 35px;
         margin-left: 262px;      
-    }
+    }   
 
-    
-        
+    header > h1{ 
+        text-align: center;
+        font-family: 'Caveat Brush', cursive;
+        font-size: 50px;
+        color: #724a0e;
+        text-shadow: #96d61e 0px -5px 5px;  
+        outline: none;
+        text-decoration: none;
+    }
         
     nav{
         margin-left:150px ;
@@ -423,9 +422,6 @@ ul {
     p {
         font-size: 20px;
     }
-
-    
-    
     
     div{    
         width: 1000px;
@@ -434,31 +430,31 @@ ul {
         border-radius: 20px;        
     }
     
-    #buscador{
+    select{
         height: 25px;
         margin-left: 375px;
         margin-top: 25px;
     }
     
-    #resultados{
+    div > section{
         width: 900px;
         height: 500px;
         margin-left: 50px;
         outline: 5px dashed #5f5b6b;     
     }  
     
-    #imagen {    
+    section > img{    
         width: 210px;
         height: 210px;
         margin-left: 100px;
     }
     
-    #npc{    
+    ul > p{    
         border-radius: 7px;
         margin-top: 120px;        
     }
     
-    #descripcion{
+    div > section > ul > ul{
         width: 700px;
         height: 190px;
         margin-top: 110px;
@@ -466,8 +462,10 @@ ul {
         border-radius: 0px;
     }
 
-    .texto{
-    
+    ul > ul > p{
+        text-align: justify;
+        background-color: transparent;
+        outline: none;    
         margin: 0px;
         padding: 0px;
         font-family: 'Caveat', cursive;
@@ -475,28 +473,17 @@ ul {
         margin-left: -40px;
     }
     
-    .hp{
+    ul > ul > section > p{
+        font-family: 'Caveat', cursive;
         display: inline-block;
-        text-align: left;
-        ;
+        margin-left: 90px;  
     }
     
-    .atk{
-        display: inline-block;
-        margin-left: 340px;
-    }
-    
-    .letritas{
-        font-size: 20px;
-        font-family: 'Caveat', cursive
-    }
-       
-
   }
 
 
 
-   /*  laptops    & Monitores SUPERFICIE. 
+   /*  laptops    & Monitores SUPERFICIE. */
   @media only screen and (min-width:1280px) and (max-width:1920px){
 
     html{
@@ -514,10 +501,17 @@ ul {
         font-size: 40px;
         margin-left: 340px;
     }
-    
-    
-        
-        
+
+    header > h1{ 
+        text-align: center;
+        font-family: 'Caveat Brush', cursive;
+        font-size: 30px;
+        color: #724a0e;
+        text-shadow: #96d61e 0px -5px 5px;  
+        outline: none;
+        text-decoration: none;
+    }
+
     nav{
         margin-left:150px ;
         border-color: gray;
@@ -532,9 +526,6 @@ ul {
         font-size: 20px;
     }
 
-    
-    
-
     div{
         width: 1200px;
         height: 600px;
@@ -542,27 +533,27 @@ ul {
         border-radius: 25px;
     }
     
-    #buscador{
+    select{
         width: 300px;
         height: 35px;
         margin-left: 450px;
         border-radius: 10px;
     }
     
-    #resultados{
+    div > section{
         width: 1150px;
         height: 470px;
         margin-left: 25px;
         border-radius: 17px;    
     }  
     
-    #imagen{    
+    section > img{    
         width: 330px;
         height: 330px;
         margin-top: 80px;
     }
 
-    #npc{    
+    ul > p{    
         font-size: 35px;
         margin-left: 150px;
         width: 300px;
@@ -571,7 +562,7 @@ ul {
         margin-top: 50px;
     }
     
-    #descripcion{
+    div > section > ul > ul{
         width: 590px;
         height: 250px;
         margin-left: 15px;
@@ -580,8 +571,10 @@ ul {
         margin-top: 10px;
     }
    
-    .texto{
-    
+    ul > ul > p{
+        text-align: justify;
+        background-color: transparent;
+        outline: none;    
         margin: 0px;
         padding: 0px;
         font-family: 'Caveat', cursive;
@@ -589,27 +582,17 @@ ul {
         margin-left: -40px;
     }
     
-    .hp{
+    ul > ul > section > p{
+        font-family: 'Caveat', cursive;
         display: inline-block;
-        text-align: left;
-        ;
-    }
-    
-    .atk{
-        display: inline-block;
-        margin-left: 340px;
-    }
-    
-    .letritas{
-        font-size: 20px;
-        font-family: 'Caveat', cursive
+        margin-left: 90px;  
     }
 
-  }
+}
 
 
 
-   /*  Televisores STARDUST 
+   /*  Televisores STARDUST */
 
   @media only screen and (min-width:1920px){
       
@@ -628,10 +611,17 @@ ul {
         height: 150px;
         font-size: 50px;
         margin-left: 540px;
-    }
+    } 
 
-    
-        
+    header > h1{ 
+        text-align: center;
+        font-family: 'Caveat Brush', cursive;
+        font-size: 30px;
+        color: #724a0e;
+        text-shadow: #96d61e 0px -5px 5px;  
+        outline: none;
+        text-decoration: none;
+    }
         
     nav{
         margin-left:150px ;
@@ -646,9 +636,6 @@ ul {
     p {
         font-size: 20px;
     }
-
-    
-    
     
     div{
         width: 1700px;
@@ -657,14 +644,14 @@ ul {
         border-radius: 30px;
     }
     
-    #buscador{
+    select{
         width: 400px;
         height: 50px;
         margin-left: 700px;
         border-radius: 20px;
     }
     
-    #resultados{
+    div > section{
         width: 1600px;
         height: 700px;
         margin-top: 50px;
@@ -673,7 +660,7 @@ ul {
     
     }  
     
-    #imagen{
+    section > img{
     
         width: 500px;
         height: 500px;
@@ -683,7 +670,7 @@ ul {
         
     }
     
-    #npc{
+    ul > p{
         font-size: 55px;
         margin-left: 170px;
         width: 550px;
@@ -691,15 +678,17 @@ ul {
         border-radius: 18px;
     }
     
-    #descripcion{
+    div > section > ul > ul{
         width: 900px;
         height: 380px;
         margin-left: 10px;
         border-radius: 10px;
     }
 
-    .texto{
-    
+    ul > ul > p{
+        text-align: justify;
+        background-color: transparent;
+        outline: none;
         margin: 0px;
         padding: 0px;
         font-family: 'Caveat', cursive;
@@ -707,23 +696,12 @@ ul {
         margin-left: -40px;
     }
     
-    .hp{
+    ul > ul > section > p{
+        font-family: 'Caveat', cursive;
         display: inline-block;
-        text-align: left;
-        ;
+        margin-left: 90px;  
     }
     
-    .atk{
-        display: inline-block;
-        margin-left: 340px;
-    }
-    
-    .letritas{
-        font-size: 20px;
-        font-family: 'Caveat', cursive
-    }
-   
-
   }
 
 

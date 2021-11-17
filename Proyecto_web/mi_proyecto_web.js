@@ -17,14 +17,14 @@ function buscar(){
     console.log(res);
     var foto=document.getElementById('IMAGEN');
     foto.src=res[0].figure;
-    var N=document.getElementById('NOMBRE');
-    N.innerHTML="<b>Nombre: </b>"+res[0].NOMBRE;
-    var D=document.getElementById('DESCRIPCIÓN');
-    D.innerHTML="<b>Descripción: </b>"+res[0].DESCRIPCIÓN;
-    var H=document.getElementById('hp');
-    H.innerHTML="<b>Vida: </b>"+res[0].hp;
-    var A=document.getElementById('atk');
-    A.innerHTML="<b>Ataque: </b>"+res[0].atk;
+    var nom=document.getElementById('NOMBRE');
+    nom.innerHTML=res[0].NOMBRE;
+    var des=document.getElementById('DESCRIPCIÓN');
+    des.innerHTML=res[0].DESCRIPCIÓN;
+    var vid=document.getElementById('hp');
+    vid.innerHTML=res[0].hp;
+    var at=document.getElementById('atk');
+    at.innerHTML=res[0].atk+"dmg";
  }))}
     
 
