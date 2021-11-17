@@ -6,569 +6,569 @@
 
         {
             "id":"1",
-            "NOMBRE": "Inicio",
-            "DESCRIPCIÓN": "",
+            "nombre": "Inicio",
+            "descripcion": "",
             "hp":"---",
             "atk":"---",
-            "IMAGEN": ""
+            "imagen": ""
         },
 
         {
             "id":"2",
-            "NOMBRE": "Abeja",
-            "DESCRIPCIÓN": "Las abejas son pequeños enemigos que son invocados por la abeja reina y se generan al romper bloques de colmena. Estas pequeñas se encuentran en nidos y colmenas por toda la jungla y azotarán a los aventureros a la mínima de cambio",
+            "nombre": "Abeja",
+            "descripcion": "Las abejas son pequeños enemigos que son invocados por la abeja reina y se generan al romper bloques de colmena. Estas pequeñas se encuentran en nidos y colmenas por toda la jungla y azotarán a los aventureros a la mínima de cambio",
             "hp":"20",
             "atk":"20",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1tA0nl59lszosasLD1V_L5yfM0pMBSK0k"
+            "imagen": "https://drive.google.com/uc?export=view&id=1tA0nl59lszosasLD1V_L5yfM0pMBSK0k"
         },
 
         {
             "id":"3",
-            "NOMBRE": "Arapaima",
-            "DESCRIPCIÓN": "La Arapaima es un monstruo que aparece tanto en la superficie de la selva como en la selva subterránea pero solamente en el agua. Estos enormes peces prosperan en las aguas de la jungla cerca de venas de magia inestable, lo que los hace inusualmente fuertes y hostiles.",
+            "nombre": "Arapaima",
+            "descripcion": "La Arapaima es un monstruo que aparece tanto en la superficie de la selva como en la selva subterránea pero solamente en el agua. Estos enormes peces prosperan en las aguas de la jungla cerca de venas de magia inestable, lo que los hace inusualmente fuertes y hostiles.",
             "hp":"200",
             "atk":"75",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1ybT7HtJv9F9jIJhuHY31tu1izmhPjMg-"
+            "imagen": "https://drive.google.com/uc?export=view&id=1ybT7HtJv9F9jIJhuHY31tu1izmhPjMg-"
         },
 
         {
             "id":"4",
-            "NOMBRE": "Ardilla",
-            "DESCRIPCIÓN": "Esta entidad pasiva tan sólo correrá hacia cualquier dirección y en ocasiones se parará o trepará a lo árboles cercanos. Criaturas del bosque erráticas y de rápido movimiento con pelaje marrón grisáceo. ¿Tienes nueces?",
+            "nombre": "Ardilla",
+            "descripcion": "Esta entidad pasiva tan sólo correrá hacia cualquier dirección y en ocasiones se parará o trepará a lo árboles cercanos. Criaturas del bosque erráticas y de rápido movimiento con pelaje marrón grisáceo. ¿Tienes nueces?",
             "hp":"5",
             "atk":"000",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1AWca7HyZ1nJFH5ULeZXP_AM-60b2dAVV"
+            "imagen": "https://drive.google.com/uc?export=view&id=1AWca7HyZ1nJFH5ULeZXP_AM-60b2dAVV"
         },
 
         {
             "id":"5",
-            "NOMBRE": "Arpía",
-            "DESCRIPCIÓN": "La arpía es un monstruo volador del modo normal que solo aparece en el espacio exterior en gruposd de hasta 7 o 15. Las mujeres aladas y semihumanas defienden su territorio contra los invasores empalándolos con sus afiladas plumas.",
+            "nombre": "Arpía",
+            "descripcion": "La arpía es un monstruo volador del modo normal que solo aparece en el espacio exterior en gruposd de hasta 7 o 15. Las mujeres aladas y semihumanas defienden su territorio contra los invasores empalándolos con sus afiladas plumas.",
             "hp":"100",
             "atk":"30",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1_pXYDzq7FrK5-8DNaP_xGFTSBe40ckE0"
+            "imagen": "https://drive.google.com/uc?export=view&id=1_pXYDzq7FrK5-8DNaP_xGFTSBe40ckE0"
         },
         
         {
             "id":"6",
-            "NOMBRE": "Avispón",
-            "DESCRIPCIÓN": "Los Avispones son enemigos voladores encontrados en la Selva subterránea, vuelan fuera del alcance del jugador y luego le disparan aguijones que pueden envenenar al jugador. Insectos voladores agresivos que pululan por las profundidades de la jungla. Sus púas venenosas se descargan a grandes distancias a gran velocidad.",
+            "nombre": "Avispón",
+            "descripcion": "Los Avispones son enemigos voladores encontrados en la Selva subterránea, vuelan fuera del alcance del jugador y luego le disparan aguijones que pueden envenenar al jugador. Insectos voladores agresivos que pululan por las profundidades de la jungla. Sus púas venenosas se descargan a grandes distancias a gran velocidad.",
             "hp":"48",
             "atk":"20",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1NDfGQdONwFSMIoOjwgyA5abfA0El5uVR"
+            "imagen": "https://drive.google.com/uc?export=view&id=1NDfGQdONwFSMIoOjwgyA5abfA0El5uVR"
         },
 
         {
             "id":"7",
-            "NOMBRE": "Babosa",
-            "DESCRIPCIÓN": "El Baboso es un animal que aparece ocasionalmente en la Selva y Selva subterránea al romper una planta del fondo. Lento y cubierto de una mucosidad resbaladiza. Los peces se sienten especialmente atraídos por estos.",
+            "nombre": "Babosa",
+            "descripcion": "El Baboso es un animal que aparece ocasionalmente en la Selva y Selva subterránea al romper una planta del fondo. Lento y cubierto de una mucosidad resbaladiza. Los peces se sienten especialmente atraídos por estos.",
             "hp":"5",
             "atk":"000",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1o-VOaZWMSEy9QOjA6yqArBPDNKE5lzPK"
+            "imagen": "https://drive.google.com/uc?export=view&id=1o-VOaZWMSEy9QOjA6yqArBPDNKE5lzPK"
         },
     
         {
             "id":"8",
-            "NOMBRE": "Búho",
-            "DESCRIPCIÓN": "Aparece en el bosque durante la noche, normalmente vuela cerca del suelo y se posa en cualquer superficie a ulular. Un ave depredadora grande y sabia que caza nocturna desde las copas de los árboles.",
+            "nombre": "Búho",
+            "descripcion": "Aparece en el bosque durante la noche, normalmente vuela cerca del suelo y se posa en cualquer superficie a ulular. Un ave depredadora grande y sabia que caza nocturna desde las copas de los árboles.",
             "hp":"5",
             "atk":"000",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1pMsGpsx-LwkSJlubpGsd6R7y0a-vzae1"
+            "imagen": "https://drive.google.com/uc?export=view&id=1pMsGpsx-LwkSJlubpGsd6R7y0a-vzae1"
         },
 
         {
             "id":"9",
-            "NOMBRE": "Bulbo mohoso",
-            "DESCRIPCIÓN": "El Bulbo mohoso aparece muy raramente en la Bioma de champiñones intentando atacar al jugador cuerpo a cuerpo mientras se encuentra anclado a un bloque. Cuando el hongo brillante esté listo para extenderse, estos bulbos brotarán para esparcir sus esporas a otros lugares y huéspedes.",
+            "nombre": "Bulbo mohoso",
+            "descripcion": "El Bulbo mohoso aparece muy raramente en la Bioma de champiñones intentando atacar al jugador cuerpo a cuerpo mientras se encuentra anclado a un bloque. Cuando el hongo brillante esté listo para extenderse, estos bulbos brotarán para esparcir sus esporas a otros lugares y huéspedes.",
             "hp":"90",
             "atk":"24",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1bwqrW3t2SLJGY92BoK6VU9809IzIFkIh"
+            "imagen": "https://drive.google.com/uc?export=view&id=1bwqrW3t2SLJGY92BoK6VU9809IzIFkIh"
         },
 
         {
             "id":"10",
-            "NOMBRE": "Cabeza meteorito",
-            "DESCRIPCIÓN": "La cabeza meteorito es un enemigo que aparece cerca de llacimientos del mineral de meteorito, vuelan hacia el jugador intentando inflingir el efecto En Llamas.  Cuando los meteoritos golpean la superficie, sus fragmentos yacen esparcidos para tomarlos. Algunas piezas están vivas y atacarán.",
+            "nombre": "Cabeza meteorito",
+            "descripcion": "La cabeza meteorito es un enemigo que aparece cerca de llacimientos del mineral de meteorito, vuelan hacia el jugador intentando inflingir el efecto En Llamas.  Cuando los meteoritos golpean la superficie, sus fragmentos yacen esparcidos para tomarlos. Algunas piezas están vivas y atacarán.",
             "hp":"26",
             "atk":"40",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1a_srK3Tb8mgLodQoJIW8v2ksSWPnzwIf"
+            "imagen": "https://drive.google.com/uc?export=view&id=1a_srK3Tb8mgLodQoJIW8v2ksSWPnzwIf"
         },
 
         {
             "id":"11",
-            "NOMBRE": "Cara mounstro",
-            "DESCRIPCIÓN": "El Caramonstruo aparece solamente en la superficie del carmesí, es un monstruo relativamente rápido, ataca de manera muy similar a los zombis pero con una mayor resistencia al retroceso.  No sería prudente enfrentarse a una de estas mutaciones insensibles y hambrientas. Sus bocas son lo suficientemente grandes como para devorar todas las cosas.",
+            "nombre": "Cara mounstro",
+            "descripcion": "El Caramonstruo aparece solamente en la superficie del carmesí, es un monstruo relativamente rápido, ataca de manera muy similar a los zombis pero con una mayor resistencia al retroceso.  No sería prudente enfrentarse a una de estas mutaciones insensibles y hambrientas. Sus bocas son lo suficientemente grandes como para devorar todas las cosas.",
             "hp":"70",
             "atk":"25",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1-uGkKIIMjO_I9MvedKytlhPJANED1AsS"
+            "imagen": "https://drive.google.com/uc?export=view&id=1-uGkKIIMjO_I9MvedKytlhPJANED1AsS"
         },
 
         {
             "id":"12",
-            "NOMBRE": "Cargador de hormigas león",
-            "DESCRIPCIÓN": "El cargador de hormigas león aparece en el desierto subterráneo o durante una tormenta de arena se genera en la superficie atacando al jugador cargando a gran velocidad. Los soldados de la especie hormiga león, Antlion Chargers, persiguen ferozmente a los intrusos con una velocidad sorprendente.",
+            "nombre": "Cargador de hormigas león",
+            "descripcion": "El cargador de hormigas león aparece en el desierto subterráneo o durante una tormenta de arena se genera en la superficie atacando al jugador cargando a gran velocidad. Los soldados de la especie hormiga león, Antlion Chargers, persiguen ferozmente a los intrusos con una velocidad sorprendente.",
             "hp":"70",
             "atk":"24",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1T8JgaE9o_cS0ksXylJxKe-wUir1ZC1BM"
+            "imagen": "https://drive.google.com/uc?export=view&id=1T8JgaE9o_cS0ksXylJxKe-wUir1ZC1BM"
         },
 
         {
             "id":"13",
-            "NOMBRE": "Carmebicho",
-            "DESCRIPCIÓN": "El Carmebicho son enemigos voladores encontrados en todo el Carmesí volando hacia el jugador intentando dañarlo con pequeñas embestidas.  El horror más común que nace del Crimson, busca consumir cosas puras con un hambre implacable.",
+            "nombre": "Carmebicho",
+            "descripcion": "El Carmebicho son enemigos voladores encontrados en todo el Carmesí volando hacia el jugador intentando dañarlo con pequeñas embestidas.  El horror más común que nace del Crimson, busca consumir cosas puras con un hambre implacable.",
             "hp":"40",
             "atk":"22",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1hQQftKpfW_l0heSoGsuOAzOuKz91M_Lt"
+            "imagen": "https://drive.google.com/uc?export=view&id=1hQQftKpfW_l0heSoGsuOAzOuKz91M_Lt"
         },
 
         {
             "id":"14",
-            "NOMBRE": "Criatura de pared",
-            "DESCRIPCIÓN": "La criatura de pared es un monstruo que aparece únicamente en el modo norma dentro de nidos de arañas, puede dañar al jugador mediante el contacto y se vuelve inmine al retroceso mientras trepa paredes. Tienen ocho patas, ocho ojos y ocho formas de acurrucarse y deleitarse con una víctima desprevenida.",
+            "nombre": "Criatura de pared",
+            "descripcion": "La criatura de pared es un monstruo que aparece únicamente en el modo norma dentro de nidos de arañas, puede dañar al jugador mediante el contacto y se vuelve inmine al retroceso mientras trepa paredes. Tienen ocho patas, ocho ojos y ocho formas de acurrucarse y deleitarse con una víctima desprevenida.",
             "hp":"80",
             "atk":"30",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1j9XgG7NsE0SGGwbjb_XOZNsneAF5xmX7"
+            "imagen": "https://drive.google.com/uc?export=view&id=1j9XgG7NsE0SGGwbjb_XOZNsneAF5xmX7"
         },
 
         {
             "id":"15",
-            "NOMBRE": "Crisopa prismática",
-            "DESCRIPCIÓN": "La crisopa prismática es un animal del modo difícil que aparece raramente en la bendición desde el atardecer hasta medianoche (7:30 PM a 12:00 AM) y luego de derrotar a Plantera, al ser dañada invoca a la Emperatriz de la luz. Sus alas son muy delicadas y debes tener mucho cuidado para no hacerle daño...  ",
+            "nombre": "Crisopa prismática",
+            "descripcion": "La crisopa prismática es un animal del modo difícil que aparece raramente en la bendición desde el atardecer hasta medianoche (7:30 PM a 12:00 AM) y luego de derrotar a Plantera, al ser dañada invoca a la Emperatriz de la luz. Sus alas son muy delicadas y debes tener mucho cuidado para no hacerle daño...  ",
             "hp":"5",
             "atk":"000",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id=1bqHYZltNSkH8as7Uxb1Ei8p_R6nrzYMi"
+            "imagen": "https://drive.google.com/uc?export=view&id=1bqHYZltNSkH8as7Uxb1Ei8p_R6nrzYMi"
         },
 
         {
             "id":"16",
-            "NOMBRE": "Diablillo de fuego",
-            "DESCRIPCIÓN": "El diablillo de fuego aparece en el inframundo con bastante frecuencia, ataca al jugador disparando rafagas de proyectiles (esfera ardiente) para después teletransportarse a otra ubicación cercana. Un demonio menor imbuido de magia infernal. Capaz de teletransportarse y lanzar bolas de fuego fantasmas hacia sus enemigos.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Diablillo de fuego",
+            "descripcion": "El diablillo de fuego aparece en el inframundo con bastante frecuencia, ataca al jugador disparando rafagas de proyectiles (esfera ardiente) para después teletransportarse a otra ubicación cercana. Un demonio menor imbuido de magia infernal. Capaz de teletransportarse y lanzar bolas de fuego fantasmas hacia sus enemigos.",
+            "hp":"70",
+            "atk":"30",
+            "imagen": "https://drive.google.com/uc?export=view&id=1IrlutTiXh7EoxN-biE8L-lGvQfwoJTHz"
         },
 
         {
             "id":"17",
-            "NOMBRE": "Diente de león enfadado",
-            "DESCRIPCIÓN": "El diente de león enojado que aparece en el césped durante un día ventoso y no se puede mover del punto en el que se generó, solo puede atacar al jugador disparando proyectiles lentos. Todo este viento puede enojar a cualquiera. Evidentemente, esto incluye dientes de león inofensivos y a sus semillas mortales.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Diente de león enfadado",
+            "descripcion": "El diente de león enojado que aparece en el césped durante un día ventoso y no se puede mover del punto en el que se generó, solo puede atacar al jugador disparando proyectiles lentos. Todo este viento puede enojar a cualquiera. Evidentemente, esto incluye dientes de león inofensivos y a sus semillas mortales.",
+            "hp":"50",
+            "atk":"15",
+            "imagen": "https://drive.google.com/uc?export=view&id=1YSgjz7vQnBB_TB_eGP2F486Z93Ci4Ixl"
         },
 
         {
             "id":"18",
-            "NOMBRE": "Doctor látigo",
-            "DESCRIPCIÓN": "El Doctor Látigo es una de las variantes de zombis especiales, sus características e IA no cambian, solo se puede generar cualquier parte de la selva y al ser derrotado deja el sonbrero de arqueólogo. Este zombi en particular tiene una habilidad especial para encontrar artefactos históricos, pero tiene un desdén terrible hacia las serpientes.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Doctor látigo",
+            "descripcion": "El Doctor Látigo es una de las variantes de zombis especiales, sus características e IA no cambian, solo se puede generar cualquier parte de la selva y al ser derrotado deja el sonbrero de arqueólogo. Este zombi en particular tiene una habilidad especial para encontrar artefactos históricos, pero tiene un desdén terrible hacia las serpientes.",
+            "hp":"500",
+            "atk":"20",
+            "imagen": "https://drive.google.com/uc?export=view&id=1n5pfClo8afuQLzWlwupmqjBaH8o6n7tE"
         },
 
         {
             "id":"19",
-            "NOMBRE": "Duende arquero",
-            "DESCRIPCIÓN": "El duende arquero aparece junto al ejército de duendes disparando flechas de madera al jugador sin ninguna característica especial. Al prestar apoyo a distancia al Ejército Goblin, los arqueros se mantienen a distancia y eliminan a los enemigos abrumados y distraídos.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Duende arquero",
+            "descripcion": "El duende arquero aparece junto al ejército de duendes disparando flechas de madera al jugador sin ninguna característica especial. Al prestar apoyo a distancia al Ejército Goblin, los arqueros se mantienen a distancia y eliminan a los enemigos abrumados y distraídos.",
+            "hp":"80",
+            "atk":"22",
+            "imagen": "https://drive.google.com/uc?export=view&id=182s5g9ygS0cVIKiAmHg58nv0baNfSd09"
         },
 
         {
             "id":"20",
-            "NOMBRE": "Duede explorador",
-            "DESCRIPCIÓN": "El duende explorador puede aparecer solamente en los dos tercios exteriores del mapa y nunca cerca del punto de aparición natural, en biomas corruptos o en horario nocturno.  El ejército de duendes envía soldados solitarios desde las playas en busca de colonias que conquistar. Dan una advertencia con un sigilo hecho jirones.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Duede explorador",
+            "descripcion": "El duende explorador puede aparecer solamente en los dos tercios exteriores del mapa y nunca cerca del punto de aparición natural, en biomas corruptos o en horario nocturno.  El ejército de duendes envía soldados solitarios desde las playas en busca de colonias que conquistar. Dan una advertencia con un sigilo hecho jirones.",
+            "hp":"80",
+            "atk":"20",
+            "imagen": "https://drive.google.com/uc?export=view&id=14QKyVl5-66I9yCPQ7YVSdpqAnFKbAYk4"
         },
 
         {
             "id":"21",
-            "NOMBRE": "Duende guerrero",
-            "DESCRIPCIÓN": "El duende guerrero aparece junto al ejército de duendes intentando hacer daño al jugador mediante al contacto, compensa su lentitud con la capacidad de abrir puertas. La columna vertebral de la infantería del Ejército Goblin, estos soldados fuertemente armados pueden sufrir un daño tremendo mientras marchan sin inmutarse.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Duende guerrero",
+            "descripcion": "El duende guerrero aparece junto al ejército de duendes intentando hacer daño al jugador mediante al contacto, compensa su lentitud con la capacidad de abrir puertas. La columna vertebral de la infantería del Ejército Goblin, estos soldados fuertemente armados pueden sufrir un daño tremendo mientras marchan sin inmutarse.",
+            "hp":"110",
+            "atk":"25",
+            "imagen": "https://drive.google.com/uc?export=view&id=1-NasWGAIwmvxxpmz9z2FPBqbhi7R6wm0"
         },
 
         {
             "id":"22",
-            "NOMBRE": "Duende hechicero",
-            "DESCRIPCIÓN": "El Duende hechicero aparece durante el evento ejército de duendes, se puede teletransporat cerca del jugadro y lanzar 3 bolas del caos que pueden atravesar bloques. Tan primitivos como son, algunos goblins tienen el potencial de manipular la energía de las sombras mágicas a través de una forma de maleficio.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Duende hechicero",
+            "descripcion": "El Duende hechicero aparece durante el evento ejército de duendes, se puede teletransporat cerca del jugadro y lanzar 3 bolas del caos que pueden atravesar bloques. Tan primitivos como son, algunos goblins tienen el potencial de manipular la energía de las sombras mágicas a través de una forma de maleficio.",
+            "hp":"40",
+            "atk":"20",
+            "imagen": "https://drive.google.com/uc?export=view&id=1d6IJCfhWc14me3AIY21IUCFVHBJRC_S8"
         },
 
         {
             "id":"23",
-            "NOMBRE": "Duende ladrón",
-            "DESCRIPCIÓN": "El duende ladrón aparece durante el ejército de duendes, intenta atacar al jugador persiguiéndolo para hacerle daño mediante contacto, se mueve más rápido que todos los monstruos saltando varios bloques y abriendo puertas. Unidades de ataque rápido del Ejército Goblin, estos molestos enemigos se especializan en movimientos ágiles y combates cuerpo a cuerpo.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Duende ladrón",
+            "descripcion": "El duende ladrón aparece durante el ejército de duendes, intenta atacar al jugador persiguiéndolo para hacerle daño mediante contacto, se mueve más rápido que todos los monstruos saltando varios bloques y abriendo puertas. Unidades de ataque rápido del Ejército Goblin, estos molestos enemigos se especializan en movimientos ágiles y combates cuerpo a cuerpo.",
+            "hp":"80",
+            "atk":"20",
+            "imagen": "https://drive.google.com/uc?export=view&id=1LPiLfKFhO3g_hGjUHfcsIfpPcfTyaP6S"
         },
 
         {
             "id":"24",
-            "NOMBRE": "Duende peón",
-            "DESCRIPCIÓN": "El Duende peón aparece junto al ejército de duendes, es el duende más básico y con estadísticas más bajas del evento, la única forma que tiene de atacar al jugador es haciendo daño por contacto con la capacidad de destruir puertas a su paso.  Soldados comunes del Ejército Goblin, estas horribles criaturas sirven para poco más que carne de cañón ... y derribar puertas.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Duende peón",
+            "descripcion": "El Duende peón aparece junto al ejército de duendes, es el duende más básico y con estadísticas más bajas del evento, la única forma que tiene de atacar al jugador es haciendo daño por contacto con la capacidad de destruir puertas a su paso.  Soldados comunes del Ejército Goblin, estas horribles criaturas sirven para poco más que carne de cañón ... y derribar puertas.",
+            "hp":"60",
+            "atk":"12",
+            "imagen": "https://drive.google.com/uc?export=view&id=1-zl7D7gAcr5QjjK2TjlvJKcT8ygWCBwm"
         },
         
         {
             "id":"25",
-            "NOMBRE": "Enjambre de hormigas león",
-            "DESCRIPCIÓN": "El Enjambre de hormigas león es un monstruo volador encontrado en los biomas del Desierto Subterráneo, es similar a la Hormiga león y al Cargador de hormigas león.  Los enjambres de hormigas león patrullan sus nidos con una mirada atenta. Si alguien amenaza sus huevos, los defenderá ferozmente",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Enjambre de hormigas león",
+            "descripcion": "El Enjambre de hormigas león es un monstruo volador encontrado en los biomas del Desierto Subterráneo, es similar a la Hormiga león y al Cargador de hormigas león.  Los enjambres de hormigas león patrullan sus nidos con una mirada atenta. Si alguien amenaza sus huevos, los defenderá ferozmente",
+            "hp":"50",
+            "atk":"30",
+            "imagen": "https://drive.google.com/uc?export=view&id=1PBfetydb4PnfVcNYqc8wxlLOutHMdm8H"
         },
 
         {
             "id":"26",
-            "NOMBRE": "Excavador",
-            "DESCRIPCIÓN": "El excavador se conforma de varios segmentos, se genera en el subsuelo y en las cavernas embistiendo al jugador a travez de bloques sólidos.  La exposición a los efectos de la magia antigua que fluye a través de las grietas del mundo provoca un crecimiento rápido inusual en gusanos gigantes.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Excavador",
+            "descripcion": "El excavador se conforma de varios segmentos, se genera en el subsuelo y en las cavernas embistiendo al jugador a travez de bloques sólidos.  La exposición a los efectos de la magia antigua que fluye a través de las grietas del mundo provoca un crecimiento rápido inusual en gusanos gigantes.",
+            "hp":"200",
+            "atk":"45",
+            "imagen": "https://drive.google.com/uc?export=view&id=1QJNDVk_7JNelsZbtMfFjxxXsSwq0T_KO"
         },
 
         {
             "id":"27",
-            "NOMBRE": "Flufy",
-            "DESCRIPCIÓN": "El copito de nieve es un monstruo del modo normal que aparece solamente en la tundra subterránea, no es muy peligroso ya que la única manera que tiene de hacer daño es mediante el contacto y como su resistencia al retroceso es muy baja, en el momento que son golpeados, salen disparados en dirección contraria.  Un extraño mamífero peludo redondo con una nariz sobresaliente inusualmente grande. Son extremadamente ligeros.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Flufy",
+            "descripcion": "El copito de nieve es un monstruo del modo normal que aparece solamente en la tundra subterránea, no es muy peligroso ya que la única manera que tiene de hacer daño es mediante el contacto y como su resistencia al retroceso es muy baja, en el momento que son golpeados, salen disparados en dirección contraria.  Un extraño mamífero peludo redondo con una nariz sobresaliente inusualmente grande. Son extremadamente ligeros.",
+            "hp":"70",
+            "atk":"26",
+            "imagen": "https://drive.google.com/uc?export=view&id=1xP56z5uSf1WwbuuIroLI0PqeTcY_rO3P"
         },
 
         {
             "id":"28",
-            "NOMBRE": "Globo ventoso",
-            "DESCRIPCIÓN": "El globo ventoso aparece unicamente durante días con fuertes corrientes de viento, viene con un slime atado que deja caer como un proyectil al hacerce daño o chocar con una estructura.  Algunos slimes emprendedores viajan en las corrientes de viento con globos en un esfuerzo por encontrar comida. Haga estallar sus globos para traerlos de vuelta a la tierra.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Globo ventoso",
+            "descripcion": "El globo ventoso aparece unicamente durante días con fuertes corrientes de viento, viene con un slime atado que deja caer como un proyectil al hacerce daño o chocar con una estructura.  Algunos slimes emprendedores viajan en las corrientes de viento con globos en un esfuerzo por encontrar comida. Haga estallar sus globos para traerlos de vuelta a la tierra.",
+            "hp":"1",
+            "atk":"0",
+            "imagen": "https://drive.google.com/uc?export=view&id=1dqRXxTG5TvHvL_2uUlsUPolHVV7zIRm0"
         },
 
         {
             "id":"29",
-            "NOMBRE": "Gnomo",
-            "DESCRIPCIÓN": "El Gnomo aparece normalmente en el interior de árboles vivientes o zonas con paredes de madera, si un gnomo entra en contacto con el sol se convertirá en piedra.  Un pequeño chivato de barba larga que reside en árboles de gran tamaño. Se convierte en un adorno de césped cuando se expone a la luz solar.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Gnomo",
+            "descripcion": "El Gnomo aparece normalmente en el interior de árboles vivientes o zonas con paredes de madera, si un gnomo entra en contacto con el sol se convertirá en piedra.  Un pequeño chivato de barba larga que reside en árboles de gran tamaño. Se convierte en un adorno de césped cuando se expone a la luz solar.",
+            "hp":"25",
+            "atk":"10",
+            "imagen": "https://drive.google.com/uc?export=view&id=1td_X3TFkbwkeP-f2ebhylpx6z94nHtx7"
         },
 
         {
             "id":"30",
-            "NOMBRE": "Golem de granito",
-            "DESCRIPCIÓN": "El golem de granito aparece en las cuevas de granito, al estar cerca del jugador hará un gruñido haciendo que sea fácil de encontrar, cada varios segundos, el gólem se cubrirá y se volverá totalmente inmune.  Fuertes son los espíritus mágicos que habitan las masas de granito en las profundidades, este tipo en particular tomando una forma humanoide",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Golem de granito",
+            "descripcion": "El golem de granito aparece en las cuevas de granito, al estar cerca del jugador hará un gruñido haciendo que sea fácil de encontrar, cada varios segundos, el gólem se cubrirá y se volverá totalmente inmune.  Fuertes son los espíritus mágicos que habitan las masas de granito en las profundidades, este tipo en particular tomando una forma humanoide",
+            "hp":"110",
+            "atk":"30",
+            "imagen": "https://drive.google.com/uc?export=view&id=1Es_W4EXsIxHncFSG7i8gJ2AeTfAmK5LI"
         },
 
         {
             "id":"31",
-            "NOMBRE": "Granito elemental",
-            "DESCRIPCIÓN": "El Elemental de granito es un enemigo que aparece solamente en la cueva de granito, si el jugador está lejos atravesará bloques para alcanzarlo.  Los elementales de la tierra se manifiestan a través de muchas formas al adquirir las propiedades de diferentes materiales, como este granito resistente.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Granito elemental",
+            "descripcion": "El Elemental de granito es un enemigo que aparece solamente en la cueva de granito, si el jugador está lejos atravesará bloques para alcanzarlo.  Los elementales de la tierra se manifiestan a través de muchas formas al adquirir las propiedades de diferentes materiales, como este granito resistente.",
+            "hp":"50",
+            "atk":"28",
+            "imagen": "https://drive.google.com/uc?export=view&id=1UyuH8utBsunXA6ExG_qDLkMzT7s-y_pB"
         },
 
         {
             "id":"32",
-            "NOMBRE": "Guillermo",
-            "DESCRIPCIÓN": "El Pececillo es un monstruo pacífico,  se encuentra de día y muy extrañamente de noche, en algunas lagunas y donde hay agua.  Un pez dorado aparentemente normal, hasta que decide llover.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Guillermo",
+            "descripcion": "El Pececillo es un monstruo pacífico,  se encuentra de día y muy extrañamente de noche, en algunas lagunas y donde hay agua.  Un pez dorado aparentemente normal, hasta que decide llover.",
+            "hp":"5",
+            "atk":"0",
+            "imagen": "https://drive.google.com/uc?export=view&id=1mMzQiIuQRPS8UmdNP5M-dlf5wJXpyidj"
         },
 
         {
             "id":"33",
-            "NOMBRE": "Gusano gigante",
-            "DESCRIPCIÓN": "El gusano gigante es un monstruo excavador del subsuelo, ira atravesando el suelo hasta estar lo suficientemente cerca del jugador para saltar y golpearlo.  Estos pequeños y pequeños cavadores cavan en la tierra y toman por sorpresa a los espeleólogos concentrados, causando una angustia no deseada.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Gusano gigante",
+            "descripcion": "El gusano gigante es un monstruo excavador del subsuelo, ira atravesando el suelo hasta estar lo suficientemente cerca del jugador para saltar y golpearlo.  Estos pequeños y pequeños cavadores cavan en la tierra y toman por sorpresa a los espeleólogos concentrados, causando una angustia no deseada.",
+            "hp":"30",
+            "atk":"8",
+            "imagen": "https://drive.google.com/uc?export=view&id=18_0TQKFjR3IPS5GE792Z5GD4tXGL1acG"
         },
 
         {
             "id":"34",
-            "NOMBRE": "Murciélago de hielo",
-            "DESCRIPCIÓN": "El Murciélago de hielo  que aparece en la Tundra subterránea como variante del murciélago de cueva cada uno de sus ataques en embestidas puede infligir el debuff helado y congelado.  Como si los murciélagos no fueran ya una molestia suficiente, los Ice Bats pueden congelar la carne con un toque, dejando a su presa indefensa.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Murciélago de hielo",
+            "descripcion": "El Murciélago de hielo  que aparece en la Tundra subterránea como variante del murciélago de cueva cada uno de sus ataques en embestidas puede infligir el debuff helado y congelado.  Como si los murciélagos no fueran ya una molestia suficiente, los Ice Bats pueden congelar la carne con un toque, dejando a su presa indefensa.",
+            "hp":"30",
+            "atk":"18",
+            "imagen": "https://drive.google.com/uc?export=view&id=1yYxUc3eL45wMp8jTwct008PIRxabof4C"
         },
 
         {
             "id":"35",
-            "NOMBRE": "Nimbo enfadado",
-            "DESCRIPCIÓN": "El Nimbo enfadado aparece en la superficie cuando llueve tras derrotar al Guardian del mundo, se mueve persiguiendo al jugador, siempre intentando estar encima suyo para atacarlo haciendo que llueva sobre él.  Cuando llegan tormentas severas, se dice que los cielos están enojados. ¡Esta nube en particular es especialmente lívida!",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Nimbo enfadado",
+            "descripcion": "El Nimbo enfadado aparece en la superficie cuando llueve tras derrotar al Guardian del mundo, se mueve persiguiendo al jugador, siempre intentando estar encima suyo para atacarlo haciendo que llueva sobre él.  Cuando llegan tormentas severas, se dice que los cielos están enojados. ¡Esta nube en particular es especialmente lívida!",
+            "hp":"300",
+            "atk":"50",
+            "imagen": "https://drive.google.com/uc?export=view&id=1orVfW5YiN8fvUpoCSRVjWtsIwJkrGjWa"
         },
 
         {
             "id":"36",
-            "NOMBRE": "Ojo errante",
-            "DESCRIPCIÓN": "El Ojo errante aparece durante la noche en cualquier parte de la superficie intentando alejarce de la visión del jugador durante los días, cuando su vida baje por debajo de la mitad, se transforma en una versión con más daño y velocidad.  Ese sentimiento sospechoso de ser observado puede muy bien hacerse realidad en la oscuridad de la noche, cuando los esbirros de Cthulhu deambulan por los cielos.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Ojo errante",
+            "descripcion": "El Ojo errante aparece durante la noche en cualquier parte de la superficie intentando alejarce de la visión del jugador durante los días, cuando su vida baje por debajo de la mitad, se transforma en una versión con más daño y velocidad.  Ese sentimiento sospechoso de ser observado puede muy bien hacerse realidad en la oscuridad de la noche, cuando los esbirros de Cthulhu deambulan por los cielos.",
+            "hp":"300",
+            "atk":"40",
+            "imagen": "https://drive.google.com/uc?export=view&id=1ADZ_TdijH5wp1gxURdKALTXKUNf4Lbxh"
         },
 
         {
             "id":"37",
-            "NOMBRE": "Pilar de nebulosa",
-            "DESCRIPCIÓN": "La columna de nebulosa es una de las cuatro torres celestiales que aparecen después de derrotar al sectario lunático, es la columna con temática de magos, y sus fragmentos sirven para crear armas y armaduras para estos.  Representando un tormentoso cuerpo celeste conocido como 'nebulosa', esta torre sostiene el sello que encierra a un terrible tirano.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Pilar de nebulosa",
+            "descripcion": "La columna de nebulosa es una de las cuatro torres celestiales que aparecen después de derrotar al sectario lunático, es la columna con temática de magos, y sus fragmentos sirven para crear armas y armaduras para estos.  Representando un tormentoso cuerpo celeste conocido como 'nebulosa', esta torre sostiene el sello que encierra a un terrible tirano.",
+            "hp":"20.000",
+            "atk":"0",
+            "imagen": "https://drive.google.com/uc?export=view&id=1IIe67N9UQ0bHZvAG8KoTxhqGG0SJ4fyD"
         },
 
         {
             "id":"38",
-            "NOMBRE": "Pilar de stardust",
-            "DESCRIPCIÓN": "La columna de polvo estelar es una de las cuatro torres celestiales que aparecen después de derrotar al sectario lunático, es la columna con temática de invocadores, y sus fragmentos sirven para crear armas y armaduras para estos.  Representando un remanente celestial brillante conocido como 'polvo de estrellas', esta torre sostiene el sello que encierra a un tirano aterrador.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Pilar de stardust",
+            "descripcion": "La columna de polvo estelar es una de las cuatro torres celestiales que aparecen después de derrotar al sectario lunático, es la columna con temática de invocadores, y sus fragmentos sirven para crear armas y armaduras para estos.  Representando un remanente celestial brillante conocido como 'polvo de estrellas', esta torre sostiene el sello que encierra a un tirano aterrador.",
+            "hp":"20.000",
+            "atk":"0",
+            "imagen": "https://drive.google.com/uc?export=view&id=1mxmFT83FZ15NayylRCaDyGz6EuMuIj31"
         },
 
         {
             "id":"39",
-            "NOMBRE": "Pilar de vortex",
-            "DESCRIPCIÓN": "La columna de vórtice es una de las cuatro torres celestiales que aparecen después de derrotar al sectario lunático. es la columna con temática de guardianes, y sus fragmentos sirven para crear armas y armaduras para estos.  Representando un profundo vacío celestial conocido como 'vórtice', esta torre sostiene el sello que encierra a un tirano aterrador.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Pilar de vortex",
+            "descripcion": "La columna de vórtice es una de las cuatro torres celestiales que aparecen después de derrotar al sectario lunático. es la columna con temática de guardianes, y sus fragmentos sirven para crear armas y armaduras para estos.  Representando un profundo vacío celestial conocido como 'vórtice', esta torre sostiene el sello que encierra a un tirano aterrador.",
+            "hp":"20.000",
+            "atk":"0",
+            "imagen": "https://drive.google.com/uc?export=view&id=17afecg3LW8Lsn_UmTNPSN4NEfxN6Ivyp"
         },
 
         {
             "id":"40",
-            "NOMBRE": "Pilar solar",
-            "DESCRIPCIÓN": "La columna solar es una de las cuatro torres celestiales que aparecen después de derrotar al sectario lunático, es la columna con temática de guerreros, y sus fragmentos sirven para crear armas y armaduras para estos.  Representando un evento celestial llameante conocido como 'llamaradas solares', esta torre sostiene el sello que encierra a un tirano aterrador.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Pilar solar",
+            "descripcion": "La columna solar es una de las cuatro torres celestiales que aparecen después de derrotar al sectario lunático, es la columna con temática de guerreros, y sus fragmentos sirven para crear armas y armaduras para estos.  Representando un evento celestial llameante conocido como 'llamaradas solares', esta torre sostiene el sello que encierra a un tirano aterrador.",
+            "hp":"20.000",
+            "atk":"0",
+            "imagen": "https://drive.google.com/uc?export=view&id=1607xj-aLNSChYCrFuEae_G2n972uyDUs"
         },
 
         {
             "id":"41",
-            "NOMBRE": "Pinky",
-            "DESCRIPCIÓN": "Pinky es un limo raro que ocasionalmente se genera en el bioma del bosque , así como en las capas subterráneas y cavernas , donde es difícil de detectar, a pesar de su pequeño tamaño, Pinky tiene más salud y defensa que casi todos los demás slimes.  El limo más pequeño jamás registrado, su densidad celular extrema los hace increíblemente duraderos para su pequeño tamaño. Comen dinero.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Pinky",
+            "descripcion": "Pinky es un limo raro que ocasionalmente se genera en el bioma del bosque , así como en las capas subterráneas y cavernas , donde es difícil de detectar, a pesar de su pequeño tamaño, Pinky tiene más salud y defensa que casi todos los demás slimes.  El limo más pequeño jamás registrado, su densidad celular extrema los hace increíblemente duraderos para su pequeño tamaño. Comen dinero.",
+            "hp":"150",
+            "atk":"5",
+            "imagen": "https://drive.google.com/uc?export=view&id=1Z6rSmxX9-dB3puzBRWSetly_dENQ2UU_"
         },
 
         {
             "id":"42",
-            "NOMBRE": "Serpiente de hueso",
-            "DESCRIPCIÓN": "El esqueleto de serpiente  es un monstruo excavador que aparece en el inframundo esta formado por varias secciones que acanzan un máximo de 20.  Poderosos dragones serpentinos alguna vez gobernaron el infierno, pero hace mucho tiempo que se despojaron de sus escamas de obsidiana. Una cáscara esquelética es todo lo que queda.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Serpiente de hueso",
+            "descripcion": "El esqueleto de serpiente  es un monstruo excavador que aparece en el inframundo esta formado por varias secciones que acanzan un máximo de 20.  Poderosos dragones serpentinos alguna vez gobernaron el infierno, pero hace mucho tiempo que se despojaron de sus escamas de obsidiana. Una cáscara esquelética es todo lo que queda.",
+            "hp":"250",
+            "atk":"30",
+            "imagen": "https://drive.google.com/uc?export=view&id=1jJOQ4ZVW1V-upy9e9uDSccomqNkx4P_-"
         },
 
         {
             "id":"43",
-            "NOMBRE": "Slime (Halloween)",
-            "DESCRIPCIÓN": "El Slime aparece en el bosque, es uno de los monstruos más comunes, si se encuentra de forma natural durante el día es pasivo y no ataca al jugador, aunque sigue haciendo daño por contacto, durante la noche o si está en el subsuelo será agresivo y atacará directamente al jugador.  ¿Es un slime disfrazado de conejito? ¿O es un conejito disfrazado de slime? Halloween puede ser a veces muy confuso.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Slime (Halloween)",
+            "descripcion": "El Slime aparece en el bosque, es uno de los monstruos más comunes, si se encuentra de forma natural durante el día es pasivo y no ataca al jugador, aunque sigue haciendo daño por contacto, durante la noche o si está en el subsuelo será agresivo y atacará directamente al jugador.  ¿Es un slime disfrazado de conejito? ¿O es un conejito disfrazado de slime? Halloween puede ser a veces muy confuso.",
+            "hp":"25",
+            "atk":"7",
+            "imagen": "https://drive.google.com/uc?export=view&id=1kJLsHiBqz4_jgKOw1iwAa33Ktff7ty7P"
         },
 
         {
             "id":"44",
-            "NOMBRE": "Trepasangre",
-            "DESCRIPCIÓN": "El Trepasangre es un monstruo que aparece con bastante frecuencia en el carmesí y en el carmesí subterráneo, puede treparse a las paredes para moverse más rápido, solo puede dañar al jugador mediante el contacto y tiene bastante resistencia al retroceso.  La mayoría de las arañas operan de forma independiente, pero las tocadas por la colmena Crimson se coordinan para consumir vida.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Trepasangre",
+            "descripcion": "El Trepasangre es un monstruo que aparece con bastante frecuencia en el carmesí y en el carmesí subterráneo, puede treparse a las paredes para moverse más rápido, solo puede dañar al jugador mediante el contacto y tiene bastante resistencia al retroceso.  La mayoría de las arañas operan de forma independiente, pero las tocadas por la colmena Crimson se coordinan para consumir vida.",
+            "hp":"60",
+            "atk":"30",
+            "imagen": "https://drive.google.com/uc?export=view&id=1SE-gmmbqYhtwrBXq5E6zxPd_MTXABfQ0"
         },
 
         {
             "id":"45",
-            "NOMBRE": "Visión antigua",
-            "DESCRIPCIÓN": "La Visión antigua es un enemigo hardmode/post-Golem que puede generar el Sectario lunático durante el combate, solo se invoca si un jugador ataca a un duplicado del Sectario lunático mientras un Phantasm Dragon todavía está vivo, vuela rápidamente hacia el jugador dejando una imagen residual detrás de él.  Una visión de un presagio mortal forjado por un poderoso cultista, a menudo aparece con una invocación cósmica imprudente de espíritus wyvern.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "Visión antigua",
+            "descripcion": "La Visión antigua es un enemigo hardmode/post-Golem que puede generar el Sectario lunático durante el combate, solo se invoca si un jugador ataca a un duplicado del Sectario lunático mientras un Phantasm Dragon todavía está vivo, vuela rápidamente hacia el jugador dejando una imagen residual detrás de él.  Una visión de un presagio mortal forjado por un poderoso cultista, a menudo aparece con una invocación cósmica imprudente de espíritus wyvern.",
+            "hp":"2.000",
+            "atk":"90",
+            "imagen": "https://drive.google.com/uc?export=view&id=17aFmVhDvInCIG1wL5YE8tt_1N0_WQQMh"
         },
 
         {
             "id":"46",
-            "NOMBRE": "(J) Abeja reina",
-            "DESCRIPCIÓN": "Esta monstruosidad altamente agresiva responde violentamente cuando su larva es perturbada; las colmenas cargadas de miel son su territorio.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Abeja reina",
+            "descripcion": "Esta monstruosidad altamente agresiva responde violentamente cuando su larva es perturbada; las colmenas cargadas de miel son su territorio.",
+            "hp":"3.400",
+            "atk":"30",
+            "imagen": "https://drive.google.com/uc?export=view&id=1Fk3gU5Su311SaDnjoDbqjPsYqKsmO4Y1"
         },
 
         {
             "id":"47",
-            "NOMBRE": "(J) Cerebro de Cthulhu",
-            "DESCRIPCIÓN": "Un pedazo de Cthulhu destrozado, este vil cerebro palpita de agonía y ayuda al Crimson en un intento de vengar a su amo.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Cerebro de Cthulhu",
+            "descripcion": "Un pedazo de Cthulhu destrozado, este vil cerebro palpita de agonía y ayuda al Crimson en un intento de vengar a su amo.",
+            "hp":"3.000",
+            "atk":"27",
+            "imagen": "https://drive.google.com/uc?export=view&id=1ABoDxsGSWl4XSxHp28jbra-h2_e4oVFc"
         },
 
         {
             "id":"48",
-            "NOMBRE": "(J) Devoramundos",
-            "DESCRIPCIÓN": "Concebido a partir de la malicia sin fondo de la Corrupción, este poderoso gusano abisal excava salvajemente para devorar todo a su paso.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Devoramundos",
+            "descripcion": "Concebido a partir de la malicia sin fondo de la Corrupción, este poderoso gusano abisal excava salvajemente para devorar todo a su paso.",
+            "hp":"7.485",
+            "atk":"22",
+            "imagen": "https://drive.google.com/uc?export=view&id=100QhObnw1D6Pwi8mu7NDsmfIe47aSOT3"
         },
 
         {
             "id":"49",
-            "NOMBRE": "(J) Duke Fishron",
-            "DESCRIPCIÓN": "La naturaleza de Duke Fishron como una forma de quimera hace que su descendencia emerja más parecida a un tiburón, que usa como secuaces en la batalla.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Duke Fishron",
+            "descripcion": "La naturaleza de Duke Fishron como una forma de quimera hace que su descendencia emerja más parecida a un tiburón, que usa como secuaces en la batalla.",
+            "hp":"50.000",
+            "atk":"150",
+            "imagen": "https://drive.google.com/uc?export=view&id=1trv_o7UMpsFE-Z-FlHKEfyN8Ej3Oo2ND"
         },
 
         {
             "id":"50",
-            "NOMBRE": "(J) El Destructor",
-            "DESCRIPCIÓN": "Un simulacro mecánico de la columna vertebral de Cthulhu decorado con sondas armadas con láser, que se desprenden de su cuerpo cuando se dañan.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) El Destructor",
+            "descripcion": "Un simulacro mecánico de la columna vertebral de Cthulhu decorado con sondas armadas con láser, que se desprenden de su cuerpo cuando se dañan.",
+            "hp":"80.000",
+            "atk":"70",
+            "imagen": "https://drive.google.com/uc?export=view&id=1iG9v4_r6ep0e_6a4Fhagb6pQoxWKYhyz"
         },
 
         {
             "id":"51",
-            "NOMBRE": "(J) El Dios antorcha",
-            "DESCRIPCIÓN": "Una deidad invisible responsable del parpadeo eterno de una antorcha, sin embargo se enoja fácilmente por el abuso desagradecido y desagradable de la colocación de la antorcha.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) El Dios antorcha",
+            "descripcion": "Una deidad invisible responsable del parpadeo eterno de una antorcha, sin embargo se enoja fácilmente por el abuso desagradecido y desagradable de la colocación de la antorcha.",
+            "hp":"0",
+            "atk":"40",
+            "imagen": "https://drive.google.com/uc?export=view&id=1flvBKCNS1weEtgtPnUxosZgrPtM8F63F"
         },
 
         {
             "id":"52",
-            "NOMBRE": "(J) Emperatriz de la luz",
-            "DESCRIPCIÓN": "Debajo de la manta limpiadora de Hallow se encuentra una diosa hada vengativa empeñada en limpiar la tierra de todas y cada una de las impurezas.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Emperatriz de la luz",
+            "descripcion": "Debajo de la manta limpiadora de Hallow se encuentra una diosa hada vengativa empeñada en limpiar la tierra de todas y cada una de las impurezas.",
+            "hp":"70.000",
+            "atk":"80",
+            "imagen": "https://drive.google.com/uc?export=view&id=1wWPAjgHToEaAIVrhQvqAIZQoMmNBvCTj"
         },
 
         {
             "id":"53",
-            "NOMBRE": "(J) Espasmatizor",
-            "DESCRIPCIÓN": "Este, que pertenece a un par de Ojos de Cthulhu recreados mecánicamente, persigue a gran velocidad, exhalando llamas malditas.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Espasmatizor",
+            "descripcion": "Este, que pertenece a un par de Ojos de Cthulhu recreados mecánicamente, persigue a gran velocidad, exhalando llamas malditas.",
+            "hp":"23,000",
+            "atk":"50",
+            "imagen": "https://drive.google.com/uc?export=view&id=1wX91VjjhYw-09TxwQ1xm4qzuUslv7ZaM"
         },
 
         {
             "id":"54",
-            "NOMBRE": "(J) Esqueletrón",
-            "DESCRIPCIÓN": "Los huesos incorpóreos de un antiguo tirano palpitaban con un odio tan fuerte que dejó una poderosa maldición que guarda la Mazmorra.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Esqueletrón",
+            "descripcion": "Los huesos incorpóreos de un antiguo tirano palpitaban con un odio tan fuerte que dejó una poderosa maldición que guarda la Mazmorra.",
+            "hp":"4.400",
+            "atk":"32",
+            "imagen": "https://drive.google.com/uc?export=view&id=1ImXo2AFTTQ3mRGMkAwK5QLqiWx6es9iV"
         },
 
         {
             "id":"55",
-            "NOMBRE": "(J) Esqueletrón Prime",
-            "DESCRIPCIÓN": "Reconstruido mecánicamente para revivir a Cthulhu, este Skeletron tiene más armas que nunca y una variedad de armas feroces.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Esqueletrón Prime",
+            "descripcion": "Reconstruido mecánicamente para revivir a Cthulhu, este Skeletron tiene más armas que nunca y una variedad de armas feroces.",
+            "hp":"28.000",
+            "atk":"47",
+            "imagen": "https://drive.google.com/uc?export=view&id=1bU_j17tQkj3mGJw_BN1i6CkqVZN4ppt2"
         },
 
         {
             "id":"56",
-            "NOMBRE": "(J) Gólem",
-            "DESCRIPCIÓN": "Una notable muestra de ingenio construida por el clan Lihzahrd. Alimentado por células de energía solar, está listo para proteger el Templo.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Gólem",
+            "descripcion": "Una notable muestra de ingenio construida por el clan Lihzahrd. Alimentado por células de energía solar, está listo para proteger el Templo.",
+            "hp":"39.000",
+            "atk":"64",
+            "imagen": "https://drive.google.com/uc?export=view&id=1FOYCbXp79LVYFVgi-kJ8Wek1xlX5xTtp"
         },
 
         {
             "id":"57",
-            "NOMBRE": "(J) Muro de Carne",
-            "DESCRIPCIÓN": "Sirviendo como el núcleo y guardián del mundo, el señor de los demonios imponente existe para mantener sellados a los poderosos espíritus ancestrales.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Muro de Carne",
+            "descripcion": "Sirviendo como el núcleo y guardián del mundo, el señor de los demonios imponente existe para mantener sellados a los poderosos espíritus ancestrales.",
+            "hp":"8.000",
+            "atk":"50",
+            "imagen": "https://drive.google.com/uc?export=view&id=1GFAOukH8DOFzOdmQIPQqVea80CU-cHOZ"
         },
 
         {
             "id":"58",
-            "NOMBRE": "(J) Ojo de Cthulhu",
-            "DESCRIPCIÓN": "Un pedazo de Cthulhu arrancado de su cuerpo hace siglos en una guerra sangrienta. Vaga por la noche en busca de su cuerpo anfitrión ... ¡y venganza!",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Ojo de Cthulhu",
+            "descripcion": "Un pedazo de Cthulhu arrancado de su cuerpo hace siglos en una guerra sangrienta. Vaga por la noche en busca de su cuerpo anfitrión ... ¡y venganza!",
+            "hp":"2.800",
+            "atk":"15",
+            "imagen": "https://drive.google.com/uc?export=view&id=1IvT_UHXF5m2sKLJvdgcsFiz21v7gTN8a"
         },
 
         {
             "id":"59",
-            "NOMBRE": "(J) Plantera",
-            "DESCRIPCIÓN": "Un guardián floral dormido, pero poderoso, despertado por las consecuencias de las maquinaciones destruidas de Cthulhu. Su alcance se extiende por toda la jungla.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Plantera",
+            "descripcion": "Un guardián floral dormido, pero poderoso, despertado por las consecuencias de las maquinaciones destruidas de Cthulhu. Su alcance se extiende por toda la jungla.",
+            "hp":"30.000",
+            "atk":"50",
+            "imagen": "https://drive.google.com/uc?export=view&id=1Nv-BS3W5doAt962aIIjIxhcbRzSVp6JZ"
         },
 
         {
             "id":"60",
-            "NOMBRE": "(J) Retinator",
-            "DESCRIPCIÓN": "Este, que pertenece a un par de Ojos de Cthulhu recreados mecánicamente, concentra su energía en disparar poderosos láseres.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Retinator",
+            "descripcion": "Este, que pertenece a un par de Ojos de Cthulhu recreados mecánicamente, concentra su energía en disparar poderosos láseres.",
+            "hp":"20.00",
+            "atk":"40",
+            "imagen": "https://drive.google.com/uc?export=view&id=1nGgM4ncw34_6QtgY2evcKYTfcyelcRvT"
         },
 
         {
             "id":"61",
-            "NOMBRE": "(J) Rey slime",
-            "DESCRIPCIÓN": "Los slimes normalmente no son inteligentes, pero ocasionalmente se fusionan para convertirse en una fuerza poderosa para tragarse todas las cosas.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Rey slime",
+            "descripcion": "Los slimes normalmente no son inteligentes, pero ocasionalmente se fusionan para convertirse en una fuerza poderosa para tragarse todas las cosas.",
+            "hp":"2.000",
+            "atk":"40",
+            "imagen": "https://drive.google.com/uc?export=view&id=1t-IXAULB8Iuic2TKmxQomZq693inWOVI"
         },
 
         {
             "id":"62",
-            "NOMBRE": "(J) Sectario Lunático",
-            "DESCRIPCIÓN": "Un líder fanático empeñado en provocar el apocalipsis reviviendo al gran Cthulhu a través de intrigas tras bambalinas.",
-            "hp":"",
-            "atk":"",
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(J) Sectario Lunático",
+            "descripcion": "Un líder fanático empeñado en provocar el apocalipsis reviviendo al gran Cthulhu a través de intrigas tras bambalinas.",
+            "hp":"32.000",
+            "atk":"50",
+            "imagen": "https://drive.google.com/uc?export=view&id=1A8kKgJdQo2bgSyDq7kW66vd06rGFtZl3"
         },
 
         {
             "id":"63",
-            "NOMBRE": "(F) Moonlord",
-            "DESCRIPCIÓN": "El cerebro detrás de todos los terrores que le sobrevienen al mundo, liberado de su prisión lunar. Prácticamente un dios, su poder no conoce límites.",
-            "hp":"",
-            "atk":"",            
-            "IMAGEN": "https://drive.google.com/uc?export=view&id="
+            "nombre": "(F) Moonlord",
+            "descripcion": "El cerebro detrás de todos los terrores que le sobrevienen al mundo, liberado de su prisión lunar. Prácticamente un dios, su poder no conoce límites.",
+            "hp":"145.000",
+            "atk":"150",            
+            "imagen": "https://drive.google.com/uc?export=view&id=1a8TLg6PHL_4HN_rwsotlubQlW1Xu_iMu"
         }
 
         

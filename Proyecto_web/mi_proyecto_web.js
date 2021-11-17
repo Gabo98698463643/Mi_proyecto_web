@@ -1,5 +1,4 @@
 var idp= 1
-var long= 0
 
 const url = "https://gabo98698463643.github.io/mi_proyecto_web/Proyecto_web/mi_proyecto_web.json";
 
@@ -22,11 +21,11 @@ function buscar(){
 
     var res= data.figures.filter(item=>item.id===idp);
     console.log(res);
-    var foto=document.getElementById('IMAGEN');
+    var foto=document.getElementById('imagen');
     foto.src=res[0].figure;
-    var nom=document.getElementById('NOMBRE');
+    var nom=document.getElementById('nombre');
     nom.innerHTML=res[0].NOMBRE;
-    var des=document.getElementById('DESCRIPCIÓN');
+    var des=document.getElementById('descripcion');
     des.innerHTML=res[0].DESCRIPCIÓN;
     var vid=document.getElementById('hp');
     vid.innerHTML=res[0].hp;
