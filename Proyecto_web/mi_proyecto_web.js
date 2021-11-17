@@ -10,7 +10,7 @@ awa.addEventListener("change", function() {
    
 function buscar(){
     fetch(url)
-    .then(function(response){1
+    .then(function(response){
     return response.json();
 }
 
@@ -22,7 +22,7 @@ function buscar(){
     var res= data.figures.filter(item=>item.id===idp);
     console.log(res);
     var foto=document.getElementById('imagen');
-    foto.src=res[0].figure;
+    foto.src=res[0].imagen;
     var nom=document.getElementById('nombre');
     nom.innerHTML=res[0].NOMBRE;
     var des=document.getElementById('descripcion');
