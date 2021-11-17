@@ -19,6 +19,20 @@ text-align: center;
 
 }
 
+nav{
+   margin-top: 2%;
+   margin-left: 36%;
+   margin-bottom:2%;
+}
+
+a{
+   padding-left: 20px;
+   color:orangered;
+   outline: none;
+   text-decoration: none;
+}
+
+
 #div{
 
 margin: auto;     
