@@ -1,14 +1,21 @@
-var idp= document.getElementById(buscador.value)
+var idp= 1
+var long= 0
 
 const url = "https://gabo98698463643.github.io/mi_proyecto_web/Proyecto_web/mi_proyecto_web.json";
 
+
+var awa = document.getElementById("buscador");
+awa.addEventListener("change", function() {
+    idp = (awa.value)
+   console.log (idp)
+   
 function buscar(){
     fetch(url)
-    .then(function(response){
+    .then(function(response){1
     return response.json();
 }
 
- .then(function(data){
+) .then(function(data){
     console.log(data.figures);
     long=data.figures.length;
     console.log("lenght:"+ long);
@@ -25,7 +32,7 @@ function buscar(){
     vid.innerHTML=res[0].hp;
     var at=document.getElementById('atk');
     at.innerHTML=res[0].atk+"dmg";
- }))}
+ })}})
     
 
 

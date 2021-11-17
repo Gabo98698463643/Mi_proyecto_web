@@ -267,12 +267,12 @@ ul > ul > section > p{
   @media only screen and (min-width:640px) and (max-width:1024px){
       
     html{
-        background-color: #1a3f6b;
+        background-image: url(https://drive.google.com/uc?export=view&id=1qWvoTImz8YgTUfEfTrSsLo6igcmSMtSC);
+        background-size: cover;
     }
     
     body{    
-        background-image: url(https://drive.google.com/uc?export=view&id=1aOmIJflvSym6N6WYkIEk6dVWnf6JfAfY);
-        background-size: cover;
+        background-color: transparent;
         width: 640px;
         height: 960px;
     }
@@ -311,7 +311,7 @@ ul > ul > section > p{
     div{
     
         width: 600px;
-        height: 715px;
+        height: 640px;
         border-radius: 20px;
         
     }
@@ -327,38 +327,38 @@ ul > ul > section > p{
     
     div > section{
         width: 550px;
-        height: 620px;
+        height: 550px;
         margin-left: 25px;
         border-radius: 10px;
         outline: 5px dashed #5f5b6b;     
     }  
     
     section > img{    
-        width: 200px;
-        height: 200px;
-        margin-top: 30px;
-        margin-left: 175px;
+        width: 190px;
+        height: 190px;
+        margin-top: 20px;
+        margin-left: 180px;
     }
     
     ul > p{    
         font-size: 20px;
         margin-left: 110px;
+        margin-bottom: 15px;
         width: 250px;
         height: 28px;
         border-radius: 10px;
 }
     
     div > section > ul > ul{
-        width: 525px;
-        height: 280px;
+        width: 485px;
+        height: 250px;
         margin-left: -27px;
         border-radius: 8px;
-        font-size: 18px;
+        font-size: 20px;
     }
 
-    ul > ul > p{
-    
-        margin: 0px;
+    ul > ul > p{    
+        width: 520px;
         padding: 0px;
         font-family: 'Caveat', cursive;
         display: inline-block;
@@ -372,22 +372,23 @@ ul > ul > section > p{
     ul > ul > section > p{
         font-family: 'Caveat', cursive;
         display: inline-block;
-        margin-left: 90px;  
+        margin-left: -200px;  
+        margin-top: 20px;
     }
     
 }
-
 
 
    /*  tablets horizontal & laptop vertical (touch screen) SUBSUELO */  
   @media only screen and (min-width:1024px) and (max-width:1280px){
       
     html{
-        background-color: #654432;
+        background-image: url(https://drive.google.com/uc?export=view&id=1D--ioIqt14W0HkRY4O5cpjcpHEYui1hZ);
+        background-size: cover;
     }
     
     body{    
-        background-image: url(https://drive.google.com/uc?export=view&id=1QzA8tQO0smW7kOM2IZM6v2GoWXrmJRjV);
+        background-color: transparent;
         width: 1024px;
         height: 768px;
     }
@@ -402,7 +403,7 @@ ul > ul > section > p{
     header > h1{ 
         text-align: center;
         font-family: 'Caveat Brush', cursive;
-        font-size: 50px;
+        font-size: 60px;
         color: #724a0e;
         text-shadow: #96d61e 0px -5px 5px;  
         outline: none;
@@ -410,73 +411,81 @@ ul > ul > section > p{
     }
         
     nav{
-        margin-left:150px ;
+        margin-top: -20px;
+        height: 30px;
+        margin-left:200px ;
         border-color: gray;
     }
         
     a { 
-        padding-left: 200px;
+        color: white;
+        padding-left: 100px;
         font-size: 20px;
     }
         
     p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: white;
         font-size: 20px;
     }
     
     div{    
         width: 1000px;
-        height: 625px;
+        height: 550px;
         font-size: 20px;
         border-radius: 20px;        
     }
     
     select{
+        width: 300px;
         height: 25px;
-        margin-left: 375px;
+        margin-left: 335px;
         margin-top: 25px;
+        margin-bottom: 10px;
+        font-size: 20px;
     }
     
     div > section{
         width: 900px;
-        height: 500px;
+        height: 450px;
         margin-left: 50px;
         outline: 5px dashed #5f5b6b;     
     }  
     
     section > img{    
-        width: 210px;
-        height: 210px;
+        width: 180px;
+        height: 180px;
         margin-left: 100px;
+        margin-top: 30px;
     }
     
     ul > p{    
         border-radius: 7px;
-        margin-top: 120px;        
+        margin-top: 60px;        
     }
     
     div > section > ul > ul{
         width: 700px;
-        height: 190px;
-        margin-top: 110px;
+        height: 200px;
+        margin-top: 100px;
         margin-left: -260px;
         border-radius: 0px;
     }
 
     ul > ul > p{
+        width: 735px;
         text-align: justify;
         background-color: transparent;
         outline: none;    
-        margin: 0px;
-        padding: 0px;
-        font-family: 'Caveat', cursive;
         display: inline-block;
         margin-left: -40px;
     }
     
     ul > ul > section > p{
-        font-family: 'Caveat', cursive;
         display: inline-block;
-        margin-left: 90px;  
+        margin-top: 20px;
+        margin-left: -283px;  
     }
     
   }
@@ -487,11 +496,12 @@ ul > ul > section > p{
   @media only screen and (min-width:1280px) and (max-width:1920px){
 
     html{
-        background-color: rgb(38, 141, 238);
+        background-image: url(https://drive.google.com/uc?export=view&id=1yt2IaFH0RoUaSxhpreCStbG0DOoQzRWZ);
+        background-size: cover;
     }
 
     body{    
-        background-image: url(https://drive.google.com/uc?export=view&id=1yt2IaFH0RoUaSxhpreCStbG0DOoQzRWZ);
+        background-color: transparent;        
         width: 1280px;
         height: 800px;
     }
@@ -505,7 +515,7 @@ ul > ul > section > p{
     header > h1{ 
         text-align: center;
         font-family: 'Caveat Brush', cursive;
-        font-size: 30px;
+        font-size: 60px;
         color: #724a0e;
         text-shadow: #96d61e 0px -5px 5px;  
         outline: none;
@@ -513,30 +523,36 @@ ul > ul > section > p{
     }
 
     nav{
-        margin-left:150px ;
+        width: 700px;
+        margin-left:290px ;
         border-color: gray;
+        margin-bottom: 10px;
     }
         
     a { 
-        padding-left: 200px;
-        font-size: 20px;
+        padding-left: 100px;
+        font-size: 25px;
     }
         
     p {
-        font-size: 20px;
+        font-size: 25px;
+        margin-bottom: 10px;
     }
 
     div{
         width: 1200px;
-        height: 600px;
+        height: 580px;
         font-size: 30px;
         border-radius: 25px;
     }
     
     select{
-        width: 300px;
+        font-size: 25px;
+        width: 350px;
         height: 35px;
-        margin-left: 450px;
+        margin-top: 20px;
+        margin-left: 425px;
+        margin-bottom: 10px;
         border-radius: 10px;
     }
     
@@ -548,26 +564,27 @@ ul > ul > section > p{
     }  
     
     section > img{    
-        width: 330px;
-        height: 330px;
-        margin-top: 80px;
+        width: 300px;
+        height: 300px;
+        margin-top: 90px;
+        margin-left: 70px;
     }
 
     ul > p{    
         font-size: 35px;
         margin-left: 150px;
-        width: 300px;
-        height: 40px;
+        width: 350px;
+        height: 50px;
         border-radius: 15px;
         margin-top: 50px;
     }
     
     div > section > ul > ul{
-        width: 590px;
+        width: 650px;
         height: 250px;
-        margin-left: 15px;
+        margin-left: 0px;
         border-radius: 10px;
-        font-size: 25;
+        
         margin-top: 10px;
     }
    
@@ -575,17 +592,18 @@ ul > ul > section > p{
         text-align: justify;
         background-color: transparent;
         outline: none;    
+        width: 685px;
         margin: 0px;
         padding: 0px;
-        font-family: 'Caveat', cursive;
-        display: inline-block;
+        font-size: 25px;
         margin-left: -40px;
     }
     
     ul > ul > section > p{
         font-family: 'Caveat', cursive;
         display: inline-block;
-        margin-left: 90px;  
+        margin-left: -270px;  
+        margin-top: 10px;
     }
 
 }
@@ -597,11 +615,15 @@ ul > ul > section > p{
   @media only screen and (min-width:1920px){
       
     html{
-        background-color: #56a2e9;
+        background-image: url(https://drive.google.com/uc?export=view&id=1ynmzJ7WN-G52PhLfh7he9E3__8NV8ikV);
+        background-size: cover;
+        width: 100%;
+        height: 150%;
     }
     
     body{
-        background-image: url(https://drive.google.com/uc?export=view&id=17wt20QPOiZVtW8EZ-19kB2mG_Z0O4_aC);
+        background-color: transparent;
+        background-size: cover;
         width: 1920px;
         height: 1200px;
     }
@@ -616,7 +638,7 @@ ul > ul > section > p{
     header > h1{ 
         text-align: center;
         font-family: 'Caveat Brush', cursive;
-        font-size: 30px;
+        font-size: 100px;
         color: #724a0e;
         text-shadow: #96d61e 0px -5px 5px;  
         outline: none;
@@ -624,37 +646,44 @@ ul > ul > section > p{
     }
         
     nav{
-        margin-left:150px ;
+        width: 750px;
+        margin-top: 10px;
+        margin-left:615px ;
         border-color: gray;
     }
         
     a { 
-        padding-left: 200px;
-        font-size: 20px;
+        color: white;
+        padding-left: 100px;
+        font-size: 30px;
     }
         
     p {
-        font-size: 20px;
+        margin-top: 20px;
+        text-align: center;
+        color: white;
+        font-size: 30px;
     }
     
     div{
         width: 1700px;
-        height: 900px;
+        height: 870px;
         font-size: 40px;
         border-radius: 30px;
     }
     
     select{
-        width: 400px;
+        width: 450px;
         height: 50px;
         margin-left: 700px;
         border-radius: 20px;
+        font-size: 30px;
     }
     
     div > section{
         width: 1600px;
-        height: 700px;
-        margin-top: 50px;
+        height: 730px;
+        margin-top: 30px;
         margin-left: 50px;
         border-radius: 30px;   
     
@@ -662,17 +691,18 @@ ul > ul > section > p{
     
     section > img{
     
-        width: 500px;
-        height: 500px;
-        margin-top: 100px;
-        margin-left: 90px;
+        width: 450px;
+        height: 450px;
+        margin-top: 120px;
+        margin-left: 100px;
         border-radius: 10px;
         
     }
     
     ul > p{
         font-size: 55px;
-        margin-left: 170px;
+        margin-top: 50px;
+        margin-left: 190px;
         width: 550px;
         height: 70px;
         border-radius: 18px;
@@ -680,12 +710,14 @@ ul > ul > section > p{
     
     div > section > ul > ul{
         width: 900px;
-        height: 380px;
+        height: 400px;
+        margin-top: 80px;
         margin-left: 10px;
         border-radius: 10px;
     }
 
     ul > ul > p{
+        width: 930px;
         text-align: justify;
         background-color: transparent;
         outline: none;
@@ -694,12 +726,14 @@ ul > ul > section > p{
         font-family: 'Caveat', cursive;
         display: inline-block;
         margin-left: -40px;
+        font-size: 35px;
     }
     
     ul > ul > section > p{
         font-family: 'Caveat', cursive;
         display: inline-block;
-        margin-left: 90px;  
+        margin-left: -365px;  
+        margin-top: 50px;
     }
     
   }
