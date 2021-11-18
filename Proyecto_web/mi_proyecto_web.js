@@ -23,17 +23,17 @@ fetch(url)
 
         var res=data.figures.filter(item=>item.id===entidad);
         console.log(res);
+
+        var nom=document.getElementById("nombre");
+        nom.innerHTML="<b> </b>"+res.nombre;
+
     })
 
 
         .catch(function(error){
             console.log(error);           
         });
-    
-        function crearNodo(elemento){
-            return document.createElement(elemento);
-        }
-    
+        
         function adjuntar(padre,hijo){
             return padre.appendChild(hijo);
         }
@@ -41,7 +41,7 @@ fetch(url)
 
 
 
-
+/*
     var nom=document.getElementById("nombre");
     nom.innerHTML="<b> </b>"+res.nombre;
 
@@ -59,7 +59,7 @@ fetch(url)
 
 
     var foto=document.getElementById("imagen");
-    foto.src=res[0].imagen;
+    foto.src=res.imagen;
 
 
     
@@ -210,4 +210,4 @@ function buscar(){
         p5.innerHTML="<b>Descripción: </b>"+res[0].des;
     })
 }
-*/
+*/}
