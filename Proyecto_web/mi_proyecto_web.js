@@ -43,6 +43,10 @@ fetch(url)
         foto.src=res[0].imagen;
 
         console.log(nombre)
+        console.log(descripcion)
+        console.log(hp)
+        console.log(atk)
+        console.log(imagen)
     })
 
         .catch(function(error){

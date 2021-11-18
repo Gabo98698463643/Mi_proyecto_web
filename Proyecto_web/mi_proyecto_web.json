@@ -7,7 +7,7 @@
         {
             "id":1,
             "nombre": "Inicio",
-            "descripcion": "",
+            "descripcion": "Mi proyecto funciona a través de la selección de un elemento establecido dentro del combo, en donde su valor hará que la información dentro de los recuadros se adapte la descripción del elemento seleccionado",
             "hp":"ඞ",
             "atk":"ඞ",
             "imagen": ""
