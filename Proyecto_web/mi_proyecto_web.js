@@ -1,38 +1,69 @@
-var idp= 1
+
+
 
 const url = "https://gabo98698463643.github.io/mi_proyecto_web/Proyecto_web/mi_proyecto_web.json";
 
 
-var awa = document.getElementById("buscador");
-awa.addEventListener("change", function() {
-    idp = (awa.value)
-   console.log (idp)
-   
-.then(function(buscar){
-    fetch(url)
-    .then(function(response){
-    return response.json();
+function buscar(){
+
+    var entidad=document.getElementById("buscador").value;
+    console.log(entidad);
+
+
+
 }
 
-) .then(function(data){
-    console.log(data.figures);
-    long=data.figures.length;
-    console.log("lenght:"+ long);
+fetch(url)
+    .then(function(response){
+        return response.json();    
+    })
 
-    var y= data.figures.filter(item=>item.id===idp);
-    console.log(y);
-    var foto=document.getElementById('imagen');
-    foto.src=y[0].imagen;
-    var nom=document.getElementById('nombre');
-    nom.innerHTML=y[0].NOMBRE;
-    var des=document.getElementById('descripcion');
-    des.innerHTML=y[0].DESCRIPCIÓN;
-    var vid=document.getElementById('hp');
-    vid.innerHTML=y[0].hp;
-    var at=document.getElementById('atk');
-    at.innerHTML=y[0].atk+"dmg";
- })})})
+    .then(function(data){
+        long=data.results.length;
+        console.log("lenght:"+ long);
+        console.log(data.results);
+
+
+        .catch(function(error){
+            console.log(error);           
+        });
     
+        function crearNodo(elemento){
+            return document.createElement(elemento);
+        }
+    
+        function adjuntar(padre,hijo){
+            return padre.appendChild(hijo);
+        }
+
+        var res= data.figures.filter(item=>item.id===idp);
+            console.log(res);
+
+
+    var nom=document.getElementById("nombre");
+    nom.innerHTML="";
+
+
+    var desc=document.getElementById("descripción");
+    desc.innerHTML="";
+
+
+    var vida=document.getElementById("hp");
+    vida.innerHTML="Vida:";
+
+
+    var daño=document.getElementById("atk");
+    daño.innerHTML="Daño:";
+
+
+    var foto=document.getElementById("imagen");
+    foto.src=.imagen
+
+    
+
+
+
+
 
 
 
@@ -43,11 +74,48 @@ awa.addEventListener("change", function() {
 
 /*
 
+
+var audio = document.getElementById(jun);
+audio.volume = 0.000001;
+
+
+.then(function(buscar){
+    fetch(url)
+    .then(function(response){
+    return response.json();
+
+var idp= 1
+var awa = document.getElementById("buscador");
+awa.addEventListener("change", function() {
+    idp = (awa.value)
+   console.log (idp)
+
 var awa = document.getElementById("buscador");
 awa.addEventListener("change", function() {
    console.log(awa.value)
 });
 
+
+
+then(function(data){
+    console.log(data.figures);
+    long=data.figures.length;
+    console.log("lenght:"+ long);
+
+    var y= data.figures.filter(item=>item.id===idp);
+    console.log(y);
+    var foto=document.getElementById('imagen');
+    foto.src=y[0].imagen;
+    var nom=document.getElementById('nombre');
+    nom.innerHTML=y[0].nombre;
+    var des=document.getElementById('descripcion');
+    des.innerHTML=y[0].descripcion;
+    var vid=document.getElementById('hp');
+    vid.innerHTML=y[0].hp;
+    var at=document.getElementById('atk');
+    at.innerHTML=y[0].atk+"dmg";
+ })
+    
 
 
 var idp=1
