@@ -22,13 +22,28 @@ fetch(url)
         entidad=parseInt(entidad);
 
         var res=data.figures.filter(item=>item.id===entidad);
-        console.log(res);
+        console.log("res:"+res);
 
         var nom=document.getElementById("nombre");
-        nom.innerHTML="<b> </b>"+res.nombre;
+        nom.innerHTML=res[0].nombre;
 
+        var desc=document.getElementById("descripcion");
+        desc.innerHTML="<b> </b>"+res[0].descripcion;
+    
+    
+        var vida=document.getElementById("hp");
+        vida.innerHTML="<b>Vida: </b>"+res[0].hp;
+    
+    
+        var dano=document.getElementById("atk");
+        dano.innerHTML="<b>Daño: </b>"+res[0].atk;
+
+    
+        var foto=document.getElementById("imagen");
+        foto.src=res[0].imagen;
+
+        console.log(nombre)
     })
-
 
         .catch(function(error){
             console.log(error);           
@@ -42,6 +57,11 @@ fetch(url)
 
 
 /*
+
+
+"data"+data,"<b>nombre</b>",
+
+
     var nom=document.getElementById("nombre");
     nom.innerHTML="<b> </b>"+res.nombre;
 
