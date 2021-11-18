@@ -8,7 +8,7 @@ awa.addEventListener("change", function() {
     idp = (awa.value)
    console.log (idp)
    
-function buscar(){
+.then(function(buscar){
     fetch(url)
     .then(function(response){
     return response.json();
@@ -19,8 +19,8 @@ function buscar(){
     long=data.figures.length;
     console.log("lenght:"+ long);
 
-    var res= data.figures.filter(item=>item.id===idp);
-    console.log(res);
+    var y= data.figures.filter(item=>item.id===idp);
+    console.log(y);
     var foto=document.getElementById('imagen');
     foto.src=res[0].imagen;
     var nom=document.getElementById('nombre');
@@ -31,7 +31,7 @@ function buscar(){
     vid.innerHTML=res[0].hp;
     var at=document.getElementById('atk');
     at.innerHTML=res[0].atk+"dmg";
- })}})
+ })})})
     
 
 
