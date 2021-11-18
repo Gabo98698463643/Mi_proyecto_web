@@ -1,5 +1,5 @@
 var audio = document.getElementById("jungla");
-audio.volume = 0.2;
+audio.volume = 1;
 
 
 
