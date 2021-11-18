@@ -1,11 +1,10 @@
-
 const url = "https://gabo98698463643.github.io/mi_proyecto_web/Proyecto_web/mi_proyecto_web.json";
 
 
 function buscar(){
 
     var entidad=document.getElementById("buscador").value;
-    console.log(entidad);
+    console.log("ID:"+entidad);
 
 
 
