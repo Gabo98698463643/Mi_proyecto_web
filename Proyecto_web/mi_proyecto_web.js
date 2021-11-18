@@ -1,6 +1,4 @@
 
-
-
 const url = "https://gabo98698463643.github.io/mi_proyecto_web/Proyecto_web/mi_proyecto_web.json";
 
 
@@ -11,7 +9,7 @@ function buscar(){
 
 
 
-}
+
 
 fetch(url)
     .then(function(response){
@@ -19,9 +17,14 @@ fetch(url)
     })
 
     .then(function(data){
-        long=data.results.length;
-        console.log("lenght:"+ long);
-        console.log(data.results);
+        long=data.figures.length;
+        console.log("lenght:"+long);
+        console.log(data.figures);
+        entidad=parseInt(entidad);
+
+        var res=data.figures.filter(item=>item.id===entidad);
+        console.log(res);
+    })
 
 
         .catch(function(error){
@@ -36,32 +39,33 @@ fetch(url)
             return padre.appendChild(hijo);
         }
 
-        var res= data.figures.filter(item=>item.id===idp);
-            console.log(res);
+
+
 
 
     var nom=document.getElementById("nombre");
-    nom.innerHTML="";
+    nom.innerHTML="<b> </b>"+res.nombre;
 
 
-    var desc=document.getElementById("descripción");
-    desc.innerHTML="";
+    var desc=document.getElementById("descripcion");
+    desc.innerHTML="<b>Descripción: </b>"+res[0].descripcion;
 
 
     var vida=document.getElementById("hp");
-    vida.innerHTML="Vida:";
+    vida.innerHTML="<b>Descripción: </b>"+res[0].hp;
 
 
-    var daño=document.getElementById("atk");
-    daño.innerHTML="Daño:";
+    var dano=document.getElementById("atk");
+    dano.innerHTML="<b>Descripción: </b>"+res[0].atk;
 
 
     var foto=document.getElementById("imagen");
-    foto.src=.imagen
+    foto.src=res[0].imagen;
+
 
     
 
-
+}
 
 
 
@@ -73,6 +77,12 @@ fetch(url)
 
 
 /*
+imagen.src=res[0].figure;
+
+
+
+  p5.innerHTML="<b>Descripción: </b>"+res[0].des;
+
 
 
 var audio = document.getElementById(jun);

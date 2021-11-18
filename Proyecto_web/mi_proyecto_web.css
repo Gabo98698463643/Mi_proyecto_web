@@ -289,16 +289,16 @@ ul > ul > section > p{
     }
         
     nav{
-        margin-left:200px ;
+        margin-left:185px ;
         margin-bottom: 10px;
-        width: 225px;
+        width: 250px;
         height: 20px; 
         padding-left: 30px;     
         
     }
         
     a { 
-        padding-left: 0px;
+        padding-left: -0px;
         font-size: 18px;
         color: white;
     }
@@ -372,7 +372,7 @@ ul > ul > section > p{
     ul > ul > section > p{
         font-family: 'Caveat', cursive;
         display: inline-block;
-        margin-left: -200px;  
+        margin-left: -0px;  
         margin-top: 20px;
     }
     
@@ -412,14 +412,15 @@ ul > ul > section > p{
         
     nav{
         margin-top: -20px;
+        width: 460px;
         height: 30px;
-        margin-left:200px ;
+        margin-left:265px ;
         border-color: gray;
     }
         
     a { 
         color: white;
-        padding-left: 100px;
+        padding-left: 50px;
         font-size: 20px;
     }
         
