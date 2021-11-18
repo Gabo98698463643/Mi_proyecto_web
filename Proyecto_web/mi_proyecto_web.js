@@ -22,15 +22,15 @@ awa.addEventListener("change", function() {
     var y= data.figures.filter(item=>item.id===idp);
     console.log(y);
     var foto=document.getElementById('imagen');
-    foto.src=res[0].imagen;
+    foto.src=y[0].imagen;
     var nom=document.getElementById('nombre');
-    nom.innerHTML=res[0].NOMBRE;
+    nom.innerHTML=y[0].NOMBRE;
     var des=document.getElementById('descripcion');
-    des.innerHTML=res[0].DESCRIPCIÓN;
+    des.innerHTML=y[0].DESCRIPCIÓN;
     var vid=document.getElementById('hp');
-    vid.innerHTML=res[0].hp;
+    vid.innerHTML=y[0].hp;
     var at=document.getElementById('atk');
-    at.innerHTML=res[0].atk+"dmg";
+    at.innerHTML=y[0].atk+"dmg";
  })})})
     
 
