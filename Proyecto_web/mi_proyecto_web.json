@@ -6,11 +6,11 @@
 
         {
             "id":1,
-            "nombre": "",
-            "descripcion": "",
-            "hp":"",
-            "atk":"",
-            "imagen": ""
+            "nombre": "-------",
+            "descripcion": "Mi proyecto funciona a través de la selección de un elemento establecido dentro del combo, en donde su valor hará que la información dentro de los recuadros se adapte la descripción del elemento seleccionado",
+            "hp":"ඞ",
+            "atk":"ඞ",
+            "imagen": "https://drive.google.com/uc?export=view&id=1OAAImbyz1fmx0a7xEXTlSMrc0sh5NiSw"
         }, 
 
         {
