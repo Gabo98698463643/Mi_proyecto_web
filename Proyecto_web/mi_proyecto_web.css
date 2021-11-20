@@ -52,6 +52,19 @@ a {
     font-family: 'Caveat Brush', cursive;
 }
 
+a:link {  
+    color: red;  
+    text-decoration: none;}  
+a:visited {  
+    color: purple;  
+    text-decoration: none;}  
+
+a:hover {  
+    color: darkblue;  
+    background-color: green;  
+    text-decoration: underline;}  
+    
+
 p {
     font-size: 20px;
     text-align: center;
@@ -430,7 +443,7 @@ ul > ul > section > p{
         padding-left: 50px;
         font-size: 20px;
     }
-        
+
     p {
         margin-top: 10px;
         margin-bottom: 10px;
