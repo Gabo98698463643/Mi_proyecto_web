@@ -32,9 +32,10 @@ header > h1{
 nav{
     margin-top: -25px;
     margin-left:400px ;
-    border-color: gray;
-    outline: solid wheat;
+    border-color: black;
+    outline: solid black;
     width: 600px;
+    background-color: white;
 }
 
 a { 
@@ -78,7 +79,7 @@ select{
 }
 
 div > section{
-    background-color: #3c5eaf;
+    background-color: #007b00;
     width: 1000px;
     height: 370px;
     margin-top: 10px;
@@ -103,17 +104,17 @@ ul {
 ul > p{
     font-size: 30px;
     margin-left: 110px;
-    background-color: #27407bed;
+    background-color: #005200;
     width: 300px;
     height: 40px;
     text-align: center;
     border-radius: 13px;
-    outline: thick double #203361;
+    outline: thick double white;
     color: white;
 }
 
 div > section > ul > ul{
-    background-color: #0e1c3e ;
+    background-color: #006600 ;
     width: 500px;
     height: 200px;
     margin-left: 10px;
@@ -165,24 +166,25 @@ header > h1{
         text-align: center;
         font-family: 'Caveat Brush', cursive;
         font-size: 25px;
-        color: #724a0e;
-        text-shadow: #96d61e 0px -5px 5px;  
+        color: #724a0e;  
         outline: none;
         text-decoration: none;
 }
         
 nav{
         margin:auto ;
-        outline: solid wheat;
+        outline: solid black;
         width: 155px;
-        height: 20px;
+        height: 15px;
         padding-left: 10px;
+        margin-bottom: 5px;
+        border-radius: 5px;         
 }
         
 a { 
         padding-left:5px;
         font-size: 10px;
-        color: white;
+        color: black;
 }
         
 p {
@@ -216,7 +218,7 @@ div > section{
         margin-top: 10px;
         margin-left: 10px;
         border-radius: 20px;
-        background-color: #3c5eaf;
+        
         outline: 3px dashed #5f5b6b;   
 }     
     
@@ -293,14 +295,14 @@ ul > ul > section > p{
         margin-bottom: 10px;
         width: 250px;
         height: 20px; 
-        padding-left: 30px;     
-        
+        padding-left: 30px; 
+        border-radius: 10px;       
     }
         
     a { 
         padding-left: -0px;
         font-size: 18px;
-        color: white;
+        color: black;
     }
         
     p {
@@ -413,13 +415,14 @@ ul > ul > section > p{
     nav{
         margin-top: -20px;
         width: 460px;
-        height: 30px;
+        height: 25px;
         margin-left:265px ;
         border-color: gray;
+        border-radius: 10px; 
     }
         
     a { 
-        color: white;
+        color: black;
         padding-left: 50px;
         font-size: 20px;
     }
@@ -527,7 +530,7 @@ ul > ul > section > p{
         width: 700px;
         margin-left:290px ;
         border-color: gray;
-        margin-bottom: 10px;
+        border-radius: 10px;        
     }
         
     a { 
@@ -651,10 +654,12 @@ ul > ul > section > p{
         margin-top: 10px;
         margin-left:615px ;
         border-color: gray;
+        border-radius: 10px;
+        
     }
         
     a { 
-        color: white;
+        color: black;
         padding-left: 100px;
         font-size: 30px;
     }
