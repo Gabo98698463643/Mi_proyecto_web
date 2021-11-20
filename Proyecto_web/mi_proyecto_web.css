@@ -143,7 +143,7 @@ div > section > ul > ul{
 
 ul > ul > p{    
     margin: 0px;
-    padding: 0px;
+    padding: 0%;
     font-family: 'Caveat', cursive;
     display: inline-block;
     margin-left: -40px;
@@ -273,12 +273,14 @@ ul > ul > p{
         margin-left: -40px;
         font-size: 10px;
         width: 240px;
+        padding: 2% 2% 2% 2% ;
 }
     
 ul > ul > section > p{
         font-family: 'Caveat', cursive;
         display: inline-block;
-        margin-left: -40px;  
+        margin-left: -40px;          
+        padding: 2% 2% 2% 2% ;
 }
 }
 
@@ -380,11 +382,11 @@ ul > ul > section > p{
     }
 
     ul > ul > p{    
-        width: 520px;
-        padding: 0px;
+        width: 510px;
         font-family: 'Caveat', cursive;
         display: inline-block;
-        margin-left: -40px;
+        margin-top: 5px;
+        margin-left: -35px;
         text-align: justify;
         background-color: transparent;
         outline: none;
@@ -395,7 +397,7 @@ ul > ul > section > p{
         font-family: 'Caveat', cursive;
         display: inline-block;
         margin-left: -0px;  
-        margin-top: 20px;
+        margin-top: 10px;
     }
     
 }
@@ -495,12 +497,13 @@ ul > ul > section > p{
     }
 
     ul > ul > p{
-        width: 735px;
+        width: 720px;
         text-align: justify;
         background-color: transparent;
         outline: none;    
         display: inline-block;
-        margin-left: -40px;
+        margin-left: -35px;
+        margin-top: 10px;
     }
     
     ul > ul > section > p{
@@ -609,18 +612,19 @@ ul > ul > section > p{
         text-align: justify;
         background-color: transparent;
         outline: none;    
-        width: 685px;
+        width: 670px;
         margin: 0px;
         padding: 0px;
         font-size: 25px;
-        margin-left: -40px;
+        margin-left: -30px;
+        margin-top: 10px;
     }
     
     ul > ul > section > p{
         font-family: 'Caveat', cursive;
         display: inline-block;
         margin-left: -270px;  
-        margin-top: 10px;
+        margin-top: -10px;
     }
 
 }
@@ -734,15 +738,14 @@ ul > ul > section > p{
     }
 
     ul > ul > p{
-        width: 930px;
+        width: 900px;
         text-align: justify;
         background-color: transparent;
         outline: none;
-        margin: 0px;
-        padding: 0px;
         font-family: 'Caveat', cursive;
         display: inline-block;
-        margin-left: -40px;
+        margin-left: -30px;
+        margin-top: 10px;
         font-size: 35px;
     }
     
