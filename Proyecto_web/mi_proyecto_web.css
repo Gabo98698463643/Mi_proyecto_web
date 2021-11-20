@@ -15,7 +15,6 @@ body{
 header{    
     width: 465px;
     height: 100px;
-
     margin-left: 465px;  
 }
 
@@ -27,7 +26,12 @@ header > h1{
     text-shadow: #96d61e 0px -5px 5px;  
     outline: none;
     text-decoration: none;
+    background-image: url(https://drive.google.com/uc?export=view&id=1kea_zanY1Pv4h8J0G0pYzI-RXyymvuyN);
+    background-position: left;
+    background-size: 20%;
+    background-repeat: no-repeat;
 }
+
 
 nav{
     margin-top: -25px;
@@ -79,7 +83,7 @@ select{
 }
 
 div > section{
-    background-color: #007b00;
+    background-color: #006600;
     width: 1000px;
     height: 370px;
     margin-top: 10px;
@@ -114,7 +118,7 @@ ul > p{
 }
 
 div > section > ul > ul{
-    background-color: #006600 ;
+    background-color:  transparent;
     width: 500px;
     height: 200px;
     margin-left: 10px;
@@ -246,6 +250,7 @@ div > section > ul > ul{
         margin-left: -25px;
         border-radius: 5px;
         font-size: 10px;
+        background-color: #6a0d15;
 }
 
 ul > ul > p{    
@@ -288,6 +293,8 @@ ul > ul > section > p{
 
     header > h1{ 
         font-size: 50px;
+        width: 600px;
+        margin-left: -70px;
     }
         
     nav{
@@ -357,6 +364,7 @@ ul > ul > section > p{
         margin-left: -27px;
         border-radius: 8px;
         font-size: 20px;
+        background-color: #1a3f6b;
     }
 
     ul > ul > p{    
@@ -403,12 +411,9 @@ ul > ul > section > p{
     }   
 
     header > h1{ 
-        text-align: center;
-        font-family: 'Caveat Brush', cursive;
+        width: 700px;
         font-size: 60px;
-        color: #724a0e;
-        outline: none;
-        text-decoration: none;
+        margin-left: -120px;
     }
         
     nav{
@@ -474,6 +479,7 @@ ul > ul > section > p{
         margin-top: 100px;
         margin-left: -260px;
         border-radius: 0px;
+        background-color: #493123;
     }
 
     ul > ul > p{
@@ -516,12 +522,9 @@ ul > ul > section > p{
     }
 
     header > h1{ 
-        text-align: center;
-        font-family: 'Caveat Brush', cursive;
+        width: 700px;
         font-size: 60px;
-        color: #724a0e;
-        outline: none;
-        text-decoration: none;
+        margin-left: -0px;
     }
 
     nav{
@@ -585,9 +588,9 @@ ul > ul > section > p{
         width: 650px;
         height: 250px;
         margin-left: 0px;
-        border-radius: 10px;
-        
+        border-radius: 10px;        
         margin-top: 10px;
+        background-color: #495590;
     }
    
     ul > ul > p{
@@ -638,12 +641,9 @@ ul > ul > section > p{
     } 
 
     header > h1{ 
-        text-align: center;
-        font-family: 'Caveat Brush', cursive;
         font-size: 100px;
-        color: #724a0e;
-        outline: none;
-        text-decoration: none;
+        width: 1200px;
+        margin-left: -150px;
     }
         
     nav{
@@ -717,6 +717,7 @@ ul > ul > section > p{
         margin-top: 80px;
         margin-left: 10px;
         border-radius: 10px;
+        background-color: #2e659b;
     }
 
     ul > ul > p{

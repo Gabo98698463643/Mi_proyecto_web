@@ -6,7 +6,7 @@
 
         {
             "id":1,
-            "nombre": "-------",
+            "nombre": "",
             "descripcion": "Mi proyecto funciona a través de la selección de un elemento establecido dentro del combo, en donde su valor hará que la información dentro de los recuadros se adapte la descripción del elemento seleccionado",
             "hp":"ඞ",
             "atk":"ඞ",
@@ -19,7 +19,7 @@
             "descripcion": "Las abejas son pequeños enemigos que son invocados por la abeja reina y se generan al romper bloques de colmena. Estas pequeñas se encuentran en nidos y colmenas por toda la jungla y azotarán a los aventureros a la mínima de cambio",
             "hp":"20",
             "atk":"20",
-            "imagen": "https://drive.google.com/uc?export=view&id=1tA0nl59lszosasLD1V_L5yfM0pMBSK0k"
+            "imagen": "https://drive.google.com/uc?export=view&id=1YfnjOnUOzJ2HOa25x58crtYyP-ret0pO"
         },
 
         {
@@ -132,11 +132,11 @@
 
         {
             "id":15,
-            "nombre": "Crisopa prismática",
+            "nombre": "Crisopa prismática(Tarro)",
             "descripcion": "La crisopa prismática es un animal del modo difícil que aparece raramente en la bendición desde el atardecer hasta medianoche (7:30 PM a 12:00 AM) y luego de derrotar a Plantera, al ser dañada invoca a la Emperatriz de la luz. Sus alas son muy delicadas y debes tener mucho cuidado para no hacerle daño...  ",
             "hp":"5",
             "atk":"000",
-            "imagen": "https://drive.google.com/uc?export=view&id=1bqHYZltNSkH8as7Uxb1Ei8p_R6nrzYMi"
+            "imagen": "https://drive.google.com/uc?export=view&id=1ZVdvUj7q2viEfKpJWfstfvT9xGrnfb9W"
         },
 
         {
@@ -235,7 +235,7 @@
             "descripcion": "El excavador se conforma de varios segmentos, se genera en el subsuelo y en las cavernas embistiendo al jugador a travez de bloques sólidos.  La exposición a los efectos de la magia antigua que fluye a través de las grietas del mundo provoca un crecimiento rápido inusual en gusanos gigantes.",
             "hp":"200",
             "atk":"45",
-            "imagen": "https://drive.google.com/uc?export=view&id=1QJNDVk_7JNelsZbtMfFjxxXsSwq0T_KO"
+            "imagen": "https://drive.google.com/uc?export=view&id=1WfMp8pOHjayiJGmCsRFyURgM32J1kuDE"
         },
 
         {
@@ -298,7 +298,7 @@
             "descripcion": "El gusano gigante es un monstruo excavador del subsuelo, ira atravesando el suelo hasta estar lo suficientemente cerca del jugador para saltar y golpearlo.  Estos pequeños y pequeños cavadores cavan en la tierra y toman por sorpresa a los espeleólogos concentrados, causando una angustia no deseada.",
             "hp":"30",
             "atk":"8",
-            "imagen": "https://drive.google.com/uc?export=view&id=18_0TQKFjR3IPS5GE792Z5GD4tXGL1acG"
+            "imagen": "https://drive.google.com/uc?export=view&id=1MWS-07C6QhJeTOd3U8uSaFHs6UEFb3lS"
         },
 
         {
@@ -379,7 +379,7 @@
             "descripcion": "El esqueleto de serpiente  es un monstruo excavador que aparece en el inframundo esta formado por varias secciones que acanzan un máximo de 20.  Poderosos dragones serpentinos alguna vez gobernaron el infierno, pero hace mucho tiempo que se despojaron de sus escamas de obsidiana. Una cáscara esquelética es todo lo que queda.",
             "hp":"250",
             "atk":"30",
-            "imagen": "https://drive.google.com/uc?export=view&id=1jJOQ4ZVW1V-upy9e9uDSccomqNkx4P_-"
+            "imagen": "https://drive.google.com/uc?export=view&id=1IEVuITYiz0zYiJnfBHv7BMg84dAlPGWJ"
         },
 
         {
@@ -433,7 +433,7 @@
             "descripcion": "Concebido a partir de la malicia sin fondo de la Corrupción, este poderoso gusano abisal excava salvajemente para devorar todo a su paso.",
             "hp":"7.485",
             "atk":"22",
-            "imagen": "https://drive.google.com/uc?export=view&id=100QhObnw1D6Pwi8mu7NDsmfIe47aSOT3"
+            "imagen": "https://drive.google.com/uc?export=view&id=1PnN_5w27IxUNpc3DTng-zIK57RyrOK6G"
         },
 
         {
@@ -451,7 +451,7 @@
             "descripcion": "Un simulacro mecánico de la columna vertebral de Cthulhu decorado con sondas armadas con láser, que se desprenden de su cuerpo cuando se dañan.",
             "hp":"80.000",
             "atk":"70",
-            "imagen": "https://drive.google.com/uc?export=view&id=1iG9v4_r6ep0e_6a4Fhagb6pQoxWKYhyz"
+            "imagen": "https://drive.google.com/uc?export=view&id=1SGMzMvymdTd3jTceX0kniScZXTOxo1Vq"
         },
 
         {
